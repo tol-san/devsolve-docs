@@ -1,6 +1,6 @@
 # Browse security Programs
 
-<a href="https://docs.devsolve.app/km/discover/programs" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/discover/programs" class="button secondary">🇰🇭 ខ្មែរ</a>
 
 A Program defines an organization’s authorized targets, rules, and possible rewards for private vulnerability reporting.
 

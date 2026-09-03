@@ -1,6 +1,6 @@
 # Create and manage Programs
 
-<a href="https://docs.devsolve.app/km/organizations/programs" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/organizations/programs" class="button secondary">🇰🇭 ខ្មែរ</a>
 
 A Program tells researchers what they may test, how to report, and what response or reward policy applies.
 

@@ -1,6 +1,6 @@
 # Frequently asked questions
 
-<a href="https://docs.devsolve.app/km/faq/" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/faq/" class="button secondary">🇰🇭 ខ្មែរ</a>
 
 ## Is DevSolve only for vulnerability Reports?
 

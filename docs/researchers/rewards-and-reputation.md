@@ -1,6 +1,6 @@
 # រង្វាន់ កេរ្តិ៍ឈ្មោះ និងការទទួលស្គាល់
 
-<a href="https://docs.devsolve.app/en/researchers/rewards-and-reputation" class="button secondary">English</a>
+<a href="https://docs.devsolve.app/en/researchers/rewards-and-reputation" class="button secondary">🇬🇧 English</a>
 
 DevSolve បែងចែក Organization Bounty, Platform Reputation និង Hall of Thanks Recognition។
 

@@ -1,6 +1,6 @@
 # ត្រួតពិនិត្យ និងគ្រប់គ្រង Report
 
-<a href="https://docs.devsolve.app/en/organizations/report-management" class="button secondary">English</a>
+<a href="https://docs.devsolve.app/en/organizations/report-management" class="button secondary">🇬🇧 English</a>
 
 Private Report Workspace ជួយសមាជិកដែលមានសិទ្ធិពិនិត្យ Scope, Evidence, Severity, Remediation និង Final Outcome។
 

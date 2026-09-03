@@ -43,6 +43,11 @@ foreach ($language in @("en", "km")) {
                 $errors.Add("Invalid language target: $language/$relativePath")
             }
             else {
+                $expectedLabel = if ($counterpart -eq "km") { "🇰🇭 ខ្មែរ" } else { "🇬🇧 English" }
+                if ($content -notmatch ([regex]::Escape($expectedLabel) + '</a>')) {
+                    $errors.Add("Missing flag in language button: $language/$relativePath")
+                }
+
                 $targetRelativePath = $switch.Groups[1].Value.Trim('/').Replace('/', '\')
                 if ([string]::IsNullOrWhiteSpace($targetRelativePath)) {
                     $targetRelativePath = "README.md"

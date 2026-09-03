@@ -1,6 +1,6 @@
 # Submit a vulnerability report
 
-<a href="https://docs.devsolve.app/km/researchers/submit-a-report" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/researchers/submit-a-report" class="button secondary">🇰🇭 ខ្មែរ</a>
 
 Use a Vulnerability Report to privately disclose a finding to the organization responsible for an in-scope Program.
 

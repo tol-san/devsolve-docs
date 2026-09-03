@@ -1,6 +1,6 @@
 # Platform security incidents
 
-<a href="https://docs.devsolve.app/km/administration/security-incidents" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/administration/security-incidents" class="button secondary">🇰🇭 ខ្មែរ</a>
 
 The administrative Security Incidents area helps administrators monitor organization account/security states and inspect incident details.
 

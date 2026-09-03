@@ -1,6 +1,6 @@
 # ក្រុម តួនាទី និងសិទ្ធិ
 
-<a href="https://docs.devsolve.app/en/organizations/teams-and-permissions" class="button secondary">English</a>
+<a href="https://docs.devsolve.app/en/organizations/teams-and-permissions" class="button secondary">🇬🇧 English</a>
 
 Organization Owner Invite អ្នកដែលមានគណនី DevSolve រួច ហើយផ្តល់តែសិទ្ធិដែលត្រូវការ។
 

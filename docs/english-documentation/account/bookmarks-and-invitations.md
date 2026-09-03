@@ -1,6 +1,6 @@
 # Bookmarks, invitations, and workspaces
 
-<a href="https://docs.devsolve.app/km/account/bookmarks-and-invitations" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/account/bookmarks-and-invitations" class="button secondary">🇰🇭 ខ្មែរ</a>
 
 These tools help you return to useful content and collaborate with organizations.
 

@@ -1,6 +1,6 @@
 # Researcher guide
 
-<a href="https://docs.devsolve.app/km/researchers/" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/researchers/" class="button secondary">🇰🇭 ខ្មែរ</a>
 
 The Researcher workspace helps you obtain permission, privately report vulnerabilities, follow decisions, respond to retests, and receive reputation or organization recognition.
 

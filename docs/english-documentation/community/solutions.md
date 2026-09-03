@@ -1,6 +1,6 @@
 # Write and manage Solutions
 
-<a href="https://docs.devsolve.app/km/community/solutions" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/community/solutions" class="button secondary">🇰🇭 ខ្មែរ</a>
 
 A Solution is an answer to a specific Problem. It should be reproducible and explain why the approach works.
 

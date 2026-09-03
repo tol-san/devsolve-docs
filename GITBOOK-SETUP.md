@@ -45,6 +45,14 @@ Only enable external embed integrations that DevSolve actually uses. An embed mu
 
 ## Header and footer
 
+In **Customization → Layout → Header → Navigation**, add this two-level dropdown:
+
+- `🌐 Language`
+  - `🇰🇭 ខ្មែរ` → `https://docs.devsolve.app/km/`
+  - `🇬🇧 English` → `https://docs.devsolve.app/en/`
+
+Use normal-link styling for the dropdown. Keep both flag-prefixed space titles in `gitbook-docs.yaml`. GitBook currently treats the two spaces as variants and shows its native picker in the sidebar; the custom header dropdown makes the language choice visible in the navbar as requested.
+
 Recommended header links:
 
 - DevSolve platform

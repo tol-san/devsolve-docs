@@ -1,6 +1,6 @@
 # Votes, comments, bookmarks, and follows
 
-<a href="https://docs.devsolve.app/km/community/interactions" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/community/interactions" class="button secondary">🇰🇭 ខ្មែរ</a>
 
 DevSolve lets signed-in users organize useful content and participate in public technical discussion.
 

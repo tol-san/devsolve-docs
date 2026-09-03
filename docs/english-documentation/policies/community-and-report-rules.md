@@ -1,6 +1,6 @@
 # Community and report-quality rules
 
-<a href="https://docs.devsolve.app/km/policies/community-and-report-rules" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/policies/community-and-report-rules" class="button secondary">🇰🇭 ខ្មែរ</a>
 
 ## Community content
 

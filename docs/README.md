@@ -1,6 +1,6 @@
 # សូមស្វាគមន៍មកកាន់ DevSolve
 
-<a href="https://docs.devsolve.app/en/" class="button secondary">English</a>
+<a href="https://docs.devsolve.app/en/" class="button secondary">🇬🇧 English</a>
 
 DevSolve រួមបញ្ចូលការចែករំលែកចំណេះដឹងបច្ចេកទេសជាសាធារណៈ និងការសម្របសម្រួលភាពងាយរងគ្រោះជាឯកជននៅលើវេទិកាតែមួយ។
 

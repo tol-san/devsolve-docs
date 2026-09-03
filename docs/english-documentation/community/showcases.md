@@ -1,6 +1,6 @@
 # Create and manage Showcases
 
-<a href="https://docs.devsolve.app/km/community/showcases" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/community/showcases" class="button secondary">🇰🇭 ខ្មែរ</a>
 
 A Showcase is a structured public presentation of a project, architecture, or technical build guide.
 

@@ -1,6 +1,6 @@
 # Community FAQ
 
-<a href="https://docs.devsolve.app/en/faq/community" class="button secondary">English</a>
+<a href="https://docs.devsolve.app/en/faq/community" class="button secondary">🇬🇧 English</a>
 
 <details>
 <summary>Problem និង Vulnerability Report ខុសគ្នាដូចម្តេច?</summary>

@@ -1,6 +1,6 @@
 # Verification and organization profile
 
-<a href="https://docs.devsolve.app/km/organizations/verification-and-profile" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/organizations/verification-and-profile" class="button secondary">🇰🇭 ខ្មែរ</a>
 
 Complete the organization record and verification before relying on public Program operations.
 

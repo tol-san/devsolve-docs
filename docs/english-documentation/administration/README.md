@@ -1,6 +1,6 @@
 # Administrator guide
 
-<a href="https://docs.devsolve.app/km/administration/" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/administration/" class="button secondary">🇰🇭 ខ្មែរ</a>
 
 Administrator pages control verification, users, public-content moderation, taxonomy, automation settings, and platform security incidents.
 

@@ -1,6 +1,6 @@
 # ស្វែងរកកម្មវិធីសុវត្ថិភាព
 
-<a href="https://docs.devsolve.app/en/discover/programs" class="button secondary">English</a>
+<a href="https://docs.devsolve.app/en/discover/programs" class="button secondary">🇬🇧 English</a>
 
 Program កំណត់ Target ដែលអនុញ្ញាត Rules និងរង្វាន់ដែលអាចមានសម្រាប់ការរាយការណ៍ភាពងាយរងគ្រោះជាឯកជន។
 

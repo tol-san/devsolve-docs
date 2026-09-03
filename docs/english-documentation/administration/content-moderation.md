@@ -1,6 +1,6 @@
 # Content moderation
 
-<a href="https://docs.devsolve.app/km/administration/content-moderation" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/administration/content-moderation" class="button secondary">🇰🇭 ខ្មែរ</a>
 
 Content Management covers Problems, Solutions, and Showcases; Content Reports covers user-submitted flags.
 

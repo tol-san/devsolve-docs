@@ -1,6 +1,6 @@
 # មគ្គុទ្ទេសក៍ Administrator
 
-<a href="https://docs.devsolve.app/en/administration/" class="button secondary">English</a>
+<a href="https://docs.devsolve.app/en/administration/" class="button secondary">🇬🇧 English</a>
 
 Administrator Pages គ្រប់គ្រង Verification, Users, Public Content Moderation, Taxonomy, Automation Settings និង Platform Security Incidents។
 

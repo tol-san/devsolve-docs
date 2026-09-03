@@ -1,6 +1,6 @@
 # Community FAQ
 
-<a href="https://docs.devsolve.app/km/faq/community" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/faq/community" class="button secondary">🇰🇭 ខ្មែរ</a>
 
 <details>
 <summary>What is the difference between a Problem and a vulnerability Report?</summary>

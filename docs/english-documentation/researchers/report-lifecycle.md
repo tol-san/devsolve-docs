@@ -1,6 +1,6 @@
 # Report lifecycle and retesting
 
-<a href="https://docs.devsolve.app/km/researchers/report-lifecycle" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/researchers/report-lifecycle" class="button secondary">🇰🇭 ខ្មែរ</a>
 
 The researcher interface presents a simplified status while the backend can preserve a more detailed workflow state.
 
