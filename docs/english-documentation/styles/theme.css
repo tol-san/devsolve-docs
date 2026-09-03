@@ -1,14 +1,16 @@
 /* ==========================================================================
    DevSolve Docs - Custom Stylesheet & Typography
-   Primary Font: "Noto Sans Khmer", "Noto Sans", Arial, sans-serif
-   Monospace Font: 'JetBrains Mono', 'IBM Plex Mono', "Noto Sans Khmer", monospace
+   Fallback stylesheet for non-GitBook previews.
+   GitBook-hosted styling is configured in the site Customization panel.
+   Primary Font: "Noto Sans", Arial, sans-serif
+   Monospace Font: "JetBrains Mono", "IBM Plex Mono", monospace
    ========================================================================== */
 
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Khmer:wght@300;400;500;600;700;800&family=Noto+Sans:ital,wght@0,400;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500&display=swap');
 
 :root {
-  --font-family-khmer: "Noto Sans Khmer", "Noto Sans", Arial, sans-serif;
-  --font-family-mono: 'JetBrains Mono', 'IBM Plex Mono', "Noto Sans Khmer", monospace;
+  --font-family-primary: "Noto Sans", Arial, sans-serif;
+  --font-family-mono: "JetBrains Mono", "IBM Plex Mono", monospace;
   --color-primary: #0284c7;
   --color-primary-hover: #0369a1;
   --color-bg-subtle: #f8fafc;
@@ -17,7 +19,7 @@
 
 /* Global Root & Markdown Body */
 html, body, .gitbook-root, .markdown-body, main, article {
-  font-family: var(--font-family-khmer) !important;
+  font-family: var(--font-family-primary) !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   line-height: 1.75;
@@ -25,7 +27,7 @@ html, body, .gitbook-root, .markdown-body, main, article {
 
 /* Headings H1 - H6 */
 h1, h2, h3, h4, h5, h6, .heading, [role="heading"] {
-  font-family: var(--font-family-khmer) !important;
+  font-family: var(--font-family-primary) !important;
   font-weight: 700;
   line-height: 1.4;
   letter-spacing: -0.01em;
@@ -33,18 +35,18 @@ h1, h2, h3, h4, h5, h6, .heading, [role="heading"] {
 
 /* Paragraphs, Spans, Text Elements */
 p, span, div, label {
-  font-family: var(--font-family-khmer) !important;
+  font-family: var(--font-family-primary) !important;
 }
 
 /* Lists */
 ul, ol, li {
-  font-family: var(--font-family-khmer) !important;
+  font-family: var(--font-family-primary) !important;
   line-height: 1.7;
 }
 
 /* Tables */
 table, th, td {
-  font-family: var(--font-family-khmer) !important;
+  font-family: var(--font-family-primary) !important;
 }
 
 th {
@@ -53,23 +55,23 @@ th {
 
 /* Links */
 a, a:visited, a:hover, a:active {
-  font-family: var(--font-family-khmer) !important;
+  font-family: var(--font-family-primary) !important;
 }
 
 /* Navigation, Sidebar & Breadcrumbs */
 nav, .sidebar, .navigation, [role="navigation"],
 .breadcrumb, [aria-label="Breadcrumbs"], .menu-item {
-  font-family: var(--font-family-khmer) !important;
+  font-family: var(--font-family-primary) !important;
 }
 
 /* Callouts / Hints / Blockquotes */
 blockquote, .hint, .callout, [data-testid="hint"] {
-  font-family: var(--font-family-khmer) !important;
+  font-family: var(--font-family-primary) !important;
 }
 
 /* Buttons */
 button, .btn, .lang-btn, [role="button"] {
-  font-family: var(--font-family-khmer) !important;
+  font-family: var(--font-family-primary) !important;
 }
 
 /* Code & Monospace: Preserves monospace for code while gracefully rendering Khmer */

@@ -1,29 +1,36 @@
-> 🌐 **Language / ភាសា:** **🇰🇭 ភាសាខ្មែរ** &nbsp;|&nbsp; [**🇬🇧 Read in English**](/en/)
+# សូមស្វាគមន៍មកកាន់ DevSolve
 
-# សេចក្តីផ្តើមអំពី DevSolve
+<a href="/en/" class="button secondary">English</a>
 
-សូមស្វាគមន៍មកកាន់មជ្ឈមណ្ឌលឯកសារផ្លូវការរបស់ **DevSolve**!
+DevSolve រួមបញ្ចូលការចែករំលែកចំណេះដឹងបច្ចេកទេសជាសាធារណៈ និងការសម្របសម្រួលភាពងាយរងគ្រោះជាឯកជននៅលើវេទិកាតែមួយ។
 
-DevSolve គឺជាវេទិកាសុវត្ថិភាពតាមប្រព័ន្ធបច្ចេកវិទ្យា (Bug Bounty & Vulnerability Coordination Platform) ឈានមុខគេ ដែលបង្កើតឡើងក្នុងគោលបំណងពង្រឹងសុវត្ថិភាពឌីជីថល ដោយតភ្ជាប់អ្នកស្រាវជ្រាវចន្លោះប្រហោងសុវត្ថិភាព (Security Researchers / Developers) ជាមួយនឹងក្រុមហ៊ុន និងស្ថាប័ននានា (Organizations)។
+{% hint style="info" %}
+មគ្គុទ្ទេសក៍នេះផ្អែកលើផ្ទាំងប្រើប្រាស់ DevSolve បច្ចុប្បន្ន។ មុខងារសាកល្បង ឬមុខងារដែលមិនទាន់ពេញលេញ ត្រូវបានបញ្ជាក់ច្បាស់ និងមិនត្រូវបានសរសេរជាការធានាថាអាចប្រើប្រាស់ពេញលេញទេ។
+{% endhint %}
 
-***
+## ជ្រើសរើសអ្វីដែលអ្នកចង់ធ្វើ
 
-## 🎯 គោលបំណងរបស់ DevSolve
+| គោលបំណង | ចាប់ផ្តើមនៅទីនេះ |
+| --- | --- |
+| សួរសំណួរបច្ចេកទេស ឬផ្សព្វផ្សាយបញ្ហា Bug | [បង្កើត និងគ្រប់គ្រង Problem](community/problems.md) |
+| ឆ្លើយតប Problem | [សរសេរ និងគ្រប់គ្រង Solution](community/solutions.md) |
+| បង្ហាញ Project ឬមគ្គុទ្ទេសក៍បច្ចេកទេស | [បង្កើត និងគ្រប់គ្រង Showcase](community/showcases.md) |
+| ស្វែងរក Security Program របស់អង្គការ | [ស្វែងរកកម្មវិធីសុវត្ថិភាព](discover/programs.md) |
+| រាយការណ៍ភាពងាយរងគ្រោះជាឯកជន | [មគ្គុទ្ទេសក៍ Researcher](researchers/README.md) |
+| ដំណើរការ Security Program | [មគ្គុទ្ទេសក៍អង្គការ](organizations/README.md) |
+| គ្រប់គ្រងវេទិកា | [មគ្គុទ្ទេសក៍ Administrator](administration/README.md) |
 
-1. **សម្រាប់អ្នកស្រាវជ្រាវ (Security Researchers / Hackers):**
-   * ផ្តល់បរិយាកាសស្របច្បាប់ សុវត្ថិភាព (Safe Harbor) ក្នុងការស្រាវជ្រាវ និងរាយការណ៍ពីចន្លោះប្រហោងសុវត្ថិភាព។
-   * ឱកាសក្នុងការរកប្រាក់ចំណូលបន្ថែមតាមរយៈប្រាក់រង្វាន់ (Bounties) និងកសាងកិត្តិនាម (Reputation Points) ក្នុងសហគមន៍។
-2. **សម្រាប់ក្រុមហ៊ុន និងស្ថាប័ន (Organizations / Companies):**
-   * ជួយការពារប្រព័ន្ធ គេហទំព័រ និងទិន្នន័យពីការវាយប្រហាររបស់ Hacker មិនល្អ (Black Hat) ដោយបើកឱកាសឱ្យអ្នកជំនាញរាប់ពាន់នាក់ចូលរួមត្រួតពិនិត្យ។
-   * គ្រប់គ្រង វាយតម្លៃកម្រិតគ្រោះថ្នាក់ (Triage) និងដោះស្រាយបញ្ហាបានទាន់ពេលវេលា ប្រកបដោយប្រសិទ្ធភាពខ្ពស់ និងសន្សំសំចៃថវិកាជាងការជួលសវនកម្មប្រពៃណី។
+## ប្រភេទមាតិកាសំខាន់ៗ
 
-***
+| មាតិកា | ភាពមើលឃើញ | គោលបំណង |
+| --- | --- | --- |
+| **Problem** | សាធារណៈក្រោយអនុម័ត | ស្នើសុំជំនួយអំពី Bug, How-to, Architecture, Performance, Security, Deployment ឬបញ្ហាបច្ចេកទេសទូទៅ |
+| **Solution** | សាធារណៈក្រោយអនុម័ត | ឆ្លើយតប Problem ជាក់លាក់ដោយ Fix, Workaround, Explanation ឬ Alternative |
+| **Showcase** | សាធារណៈក្រោយអនុម័ត | បង្ហាញ Project, Architecture ឬ Build Guide ដែលមានជំហាន រូបភាព Diagram Code និង Links |
+| **Vulnerability Report** | ឯកជន | ផ្ញើភស្តុតាងសុវត្ថិភាពទៅអង្គការតាម Scope និង Rules របស់ Program |
 
-## 🗺️ ផែនទីមាតិកាឯកសារណែនាំ
+កុំផ្សព្វផ្សាយព័ត៌មានភាពងាយរងគ្រោះដែលរសើបជា Community Problem។ ប្រើ Vulnerability Report ឯកជន បើ Asset នោះជាកម្មសិទ្ធិរបស់អង្គការក្នុង Program។
 
-* [**១. ការចាប់ផ្តើមដំបូង (Getting Started)**](overview/README.md)**:** ស្វែងយល់ពីគោលគំនិតគ្រឹះ ប្រភេទគណនី និងការចុះឈ្មោះ។
-* [**២. សម្រាប់ Developers & Researchers**](finding-programs/README.md)**:** ស្វែងរក Programs, របៀប Submit Report, PoC និងការដកប្រាក់រង្វាន់។
-* [**៣. សម្រាប់ក្រុមហ៊ុន (Companies & Organizations)**](registration/README.md)**:** ការផ្ទៀងផ្ទាត់ក្រុមហ៊ុន, បង្កើត Program, កំណត់ Scope និងគ្រប់គ្រង Report។
-* [**៤. Profile និងគណនី**](edit-profile/README.md)**:** ការគ្រប់គ្រង Profile, Bookmarks, Drafts និង Security Settings។
-* [**៥. សុវត្ថិភាព និងគោលការណ៍ (Safety & Policies)**](responsible-disclosure/README.md)**:** គោលការណ៍ Safe Harbor, ការរាយការណ៍ដោយការទទួលខុសត្រូវ និងអ្វីដែលត្រូវហាមឃាត់។
-* [**៦. សំណួរដែលសួរញឹកញាប់ (FAQ)**](reports-faq/README.md)**:** ចម្លើយលម្អិតចំពោះចម្ងល់ទូទៅក្នុងការប្រើប្រាស់ Platform។
+## ភាសា
+
+ឯកសារ DevSolve មានជាភាសាខ្មែរ និងអង់គ្លេស។ ប្រើប៊ូតុងភាសានៅផ្នែកខាងលើនៃទំព័រនីមួយៗ ដើម្បីបើកប្រធានបទដូចគ្នាជាភាសាផ្សេង។

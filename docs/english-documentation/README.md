@@ -1,29 +1,36 @@
-> 🌐 **Language / ភាសា:** [**🇰🇭 អានជាភាសាខ្មែរ**](/km/) &nbsp;|&nbsp; **🇬🇧 English**
-
 # Welcome to DevSolve
 
-Welcome to the official documentation for **DevSolve**!
+<a href="/km/" class="button secondary">ខ្មែរ</a>
 
-DevSolve is a premier Bug Bounty and Vulnerability Coordination Platform designed to strengthen digital security by connecting ethical security researchers and developers with proactive companies and organizations worldwide.
+DevSolve brings public technical knowledge-sharing and private vulnerability coordination into one platform.
 
-***
+{% hint style="info" %}
+This guide follows the current DevSolve interface. Features that are demonstrations or partially implemented are identified instead of being presented as production guarantees.
+{% endhint %}
 
-## 🎯 Our Mission
+## Choose what you want to do
 
-1. **For Security Researchers & Developers:**
-   * Provide a safe, transparent, and legally protected (Safe Harbor) environment to discover and disclose security vulnerabilities.
-   * Enable researchers to earn financial rewards (bounties), gain recognition, and climb global reputation leaderboards.
-2. **For Companies & Organizations:**
-   * Protect digital assets, applications, and customer data against malicious threats through crowd-sourced ethical security testing.
-   * Efficiently triage, validate, and remediate vulnerabilities before they can be exploited in the wild, at a fraction of the cost of traditional penetration testing.
+| Goal | Start here |
+| --- | --- |
+| Ask a technical question or report a public bug | [Create and manage Problems](community/problems.md) |
+| Answer a Problem | [Write and manage Solutions](community/solutions.md) |
+| Publish a project or technical build guide | [Create and manage Showcases](community/showcases.md) |
+| Find an organization’s security program | [Browse security programs](discover/programs.md) |
+| Privately disclose a vulnerability | [Researcher guide](researchers/README.md) |
+| Run a security program | [Organization guide](organizations/README.md) |
+| Manage the platform | [Administrator guide](administration/README.md) |
 
-***
+## Understand the four main content types
 
-## 🗺️ Documentation Map
+| Content | Visibility | Purpose |
+| --- | --- | --- |
+| **Problem** | Public after approval | Ask for help with a bug, how-to, architecture, performance, security, deployment, or general technical issue |
+| **Solution** | Public after approval | Answer a specific Problem with an explanation, fix, workaround, or alternative |
+| **Showcase** | Public after approval | Present a project, architecture, or build guide with steps, images, diagrams, code, and links |
+| **Vulnerability Report** | Private | Send security evidence to an organization under a Program’s scope and rules |
 
-* [**1. Getting Started**](overview/README.md)**:** Core concepts, account types, registration, and account security.
-* [**2. For Developers & Researchers**](finding-programs/README.md)**:** Finding programs, crafting quality PoC submissions, tracking triage statuses, and claiming bounties.
-* [**3. For Companies & Organizations**](registration/README.md)**:** Organization verification, launching bug bounty programs, defining asset scopes, and triaging reports.
-* [**4. Profile & Account**](edit-profile/README.md)**:** Profile customization, following peers, notifications, drafts, and security settings.
-* [**5. Safety & Policies**](responsible-disclosure/README.md)**:** Safe Harbor protections, Coordinated Disclosure policies, and community standards.
-* [**6. Frequently Asked Questions (FAQ)**](reports-faq/README.md)**:** Detailed answers to common questions, dispute resolutions, and payout workflows.
+Do not publish sensitive vulnerability details as a Community Problem. Use a private Vulnerability Report when the affected asset belongs to an organization’s Program.
+
+## Languages
+
+DevSolve Docs is available in English and Khmer. Use the language button at the beginning of any page to open the matching guide in the other language.
