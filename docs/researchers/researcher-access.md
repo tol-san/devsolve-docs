@@ -1,6 +1,6 @@
 # ស្នើសុំ Researcher Access
 
-<a href="/en/researchers/researcher-access" class="button secondary">English</a>
+<a href="https://docs.devsolve.app/en/researchers/researcher-access" class="button secondary">English</a>
 
 អង្គការអាចទាមទារការអនុម័ត មុនអ្នកអាចដាក់ Report ទៅ Programs របស់វា។ នេះជាសិទ្ធិកម្រិត Organization មិនមែនសិទ្ធិដាច់ដោយឡែកសម្រាប់ Program នីមួយៗទេ។
 

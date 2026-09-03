@@ -1,6 +1,6 @@
 # សំណួរដែលសួរញឹកញាប់
 
-<a href="/en/faq/" class="button secondary">English</a>
+<a href="https://docs.devsolve.app/en/faq/" class="button secondary">English</a>
 
 ## តើ DevSolve មានតែ Vulnerability Reports ឬ?
 

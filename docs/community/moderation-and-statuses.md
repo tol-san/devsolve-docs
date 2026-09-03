@@ -1,6 +1,6 @@
 # ការត្រួតពិនិត្យ និងស្ថានភាព Community
 
-<a href="/en/community/moderation-and-statuses" class="button secondary">English</a>
+<a href="https://docs.devsolve.app/en/community/moderation-and-statuses" class="button secondary">English</a>
 
 Community Review ការពារគុណភាពមាតិកាសាធារណៈ។ Visibility និង Edit Action អាស្រ័យលើ Content Type, Ownership និង Status។
 

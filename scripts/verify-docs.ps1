@@ -3,7 +3,7 @@ $ErrorActionPreference = "Stop"
 $repositoryRoot = Split-Path -Parent $PSScriptRoot
 $languageRoots = @{
     en = Join-Path $repositoryRoot "docs/english-documentation"
-    km = Join-Path $repositoryRoot "docs/khmer-documentation"
+    km = Join-Path $repositoryRoot "docs"
 }
 $errors = [System.Collections.Generic.List[string]]::new()
 
@@ -11,6 +11,10 @@ foreach ($language in @("en", "km")) {
     $root = $languageRoots[$language]
     $counterpart = if ($language -eq "en") { "km" } else { "en" }
     $files = Get-ChildItem -LiteralPath $root -Recurse -Filter "*.md"
+    if ($language -eq "km") {
+        $englishPrefix = $languageRoots.en.TrimEnd('\') + '\'
+        $files = $files | Where-Object { -not $_.FullName.StartsWith($englishPrefix) }
+    }
     $summaryPath = Join-Path $root "SUMMARY.md"
     $summary = Get-Content -LiteralPath $summaryPath -Raw
     $summaryTargets = [regex]::Matches($summary, '\]\(([^)]+\.md)\)') |
@@ -92,7 +96,9 @@ foreach ($language in @("en", "km")) {
 $englishPaths = Get-ChildItem -LiteralPath $languageRoots.en -Recurse -Filter "*.md" |
     ForEach-Object { $_.FullName.Substring($languageRoots.en.Length + 1) } |
     Sort-Object
+$englishPrefix = $languageRoots.en.TrimEnd('\') + '\'
 $khmerPaths = Get-ChildItem -LiteralPath $languageRoots.km -Recurse -Filter "*.md" |
+    Where-Object { -not $_.FullName.StartsWith($englishPrefix) } |
     ForEach-Object { $_.FullName.Substring($languageRoots.km.Length + 1) } |
     Sort-Object
 

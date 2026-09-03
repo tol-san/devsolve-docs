@@ -1,6 +1,6 @@
 # ស្វែងយល់ពី DevSolve
 
-<a href="/en/discover/" class="button secondary">English</a>
+<a href="https://docs.devsolve.app/en/discover/" class="button secondary">English</a>
 
 ទំព័រស្វែងយល់ភាគច្រើនជាសាធារណៈ។ អ្នកអាចពិនិត្យ Programs, ចំណេះដឹង Community, សកម្មភាព Researcher និង Profiles មុនបង្កើតគណនី។
 

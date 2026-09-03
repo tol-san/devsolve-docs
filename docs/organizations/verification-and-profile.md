@@ -1,6 +1,6 @@
 # ការផ្ទៀងផ្ទាត់ និង Profile អង្គការ
 
-<a href="/en/organizations/verification-and-profile" class="button secondary">English</a>
+<a href="https://docs.devsolve.app/en/organizations/verification-and-profile" class="button secondary">English</a>
 
 បំពេញ Organization Record និង Verification មុនពឹងផ្អែកលើ Public Program Operations។
 

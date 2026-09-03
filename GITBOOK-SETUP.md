@@ -6,8 +6,8 @@ This checklist records the site settings that cannot be controlled by files in t
 
 The repository publishes two GitBook spaces through `gitbook-docs.yaml`:
 
-- `/km` — Khmer, the default space
-- `/en` — English
+- `/km` — Khmer, the default space sourced from `docs/`
+- `/en` — English, sourced from `docs/english-documentation/`
 
 Each page contains a button-style link to its counterpart in the other space. The button uses the complete `https://docs.devsolve.app/en/...` or `https://docs.devsolve.app/km/...` URL so it also works in GitHub previews. Keep counterpart slugs identical whenever possible.
 

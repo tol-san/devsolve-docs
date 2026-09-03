@@ -1,6 +1,6 @@
 # Bookmarks, Invitations និង Workspaces
 
-<a href="/en/account/bookmarks-and-invitations" class="button secondary">English</a>
+<a href="https://docs.devsolve.app/en/account/bookmarks-and-invitations" class="button secondary">English</a>
 
 ## Bookmarks
 

@@ -1,6 +1,6 @@
 # Categories, Tags, Weaknesses និង Auto-Approval
 
-<a href="/en/administration/taxonomy-and-automation" class="button secondary">English</a>
+<a href="https://docs.devsolve.app/en/administration/taxonomy-and-automation" class="button secondary">English</a>
 
 Taxonomy ធ្វើឱ្យ Community និង Report Classification អាចស្វែងរក និងស្របគ្នា។
 

@@ -1,6 +1,6 @@
 # Vote, Comment, Bookmark និង Follow
 
-<a href="/en/community/interactions" class="button secondary">English</a>
+<a href="https://docs.devsolve.app/en/community/interactions" class="button secondary">English</a>
 
 ## Vote
 
