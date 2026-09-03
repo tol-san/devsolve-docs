@@ -19,13 +19,23 @@ In **GitBook → Site → Customization**, configure:
 2. Set the primary color to DevSolve blue (`#2563EB`).
 3. Enable light and dark mode and allow readers to switch.
 4. Select a clean sans-serif font for English.
-5. For Khmer, select or upload **Noto Sans Khmer**, the Google font with Khmer coverage. The repository already contains regular and bold `.woff2` files under each language space.
-6. Select a readable monospace font for code.
-7. Use rounded corners, subtle shadows, and underlined links on hover.
-8. Give `info`, `success`, `warning`, and `danger` hints distinct semantic colors.
-9. Choose an adaptive code theme that works in light and dark mode.
+5. For Khmer, select or upload **Noto Sans Khmer**, the Google font with Khmer coverage. Use these exact full fonts:
+   - Regular (400): `docs/assets/fonts/NotoSansKhmer-Regular.woff2`
+   - Bold (700): `docs/assets/fonts/NotoSansKhmer-Bold.woff2`
+6. Do not mix a Khmer-only subset in the Regular slot with a Latin-only subset in the Bold slot. Both uploaded files must contain Latin and Khmer glyphs; otherwise GitBook falls back to its default font for the missing script or weight.
+7. Select a readable monospace font for code.
+8. Use rounded corners, subtle shadows, and underlined links on hover.
+9. Give `info`, `success`, `warning`, and `danger` hints distinct semantic colors.
+10. Choose an adaptive code theme that works in light and dark mode.
 
 GitBook does not allow arbitrary site CSS or JavaScript. The `styles/theme.css` files are retained only for non-GitBook preview tools and must not be treated as the published theme.
+
+The font binaries can be rebuilt from Google Fonts' official Noto Sans Khmer variable font with:
+
+```powershell
+python -m pip install fonttools brotli
+python ./scripts/build-khmer-fonts.py
+```
 
 ## Integrations
 
