@@ -1,3 +1,5 @@
+> 🌐 **Language / ភាសា:** [**🇰🇭 អានជាភាសាខ្មែរ**](../../khmer-documentation/finding-programs/submitting-reports.md) &nbsp;|&nbsp; **🇬🇧 English**
+
 # Submitting Reports
 
 Submitting clear, well-structured, and reproducible vulnerability reports accelerates the triage cycle, ensures rapid remediation, and secures your bounty payouts quickly.
@@ -31,7 +33,7 @@ From any active program page, click **"Submit Report"** or navigate directly to 
 Need more time to finalize reproduction steps or capture PoC videos?
 
 * Click **"Save as Draft"** at any point during writing.
-* Your drafts are securely retained in your [**Saved Drafts**](../../../dashboard/saved-draft/) area.
+* Your drafts are securely retained in your [**Saved Drafts**](https://devsolve-frontend.vercel.app/dashboard/saved-draft/) area.
 * Once confident in your findings, open the draft, review all sections, and submit to the organization.
 
 ***

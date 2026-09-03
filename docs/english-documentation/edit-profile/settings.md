@@ -1,3 +1,5 @@
+> 🌐 **Language / ភាសា:** [**🇰🇭 អានជាភាសាខ្មែរ**](../../khmer-documentation/edit-profile/settings.md) &nbsp;|&nbsp; **🇬🇧 English**
+
 # Settings
 
 Manage your account profile, notification preferences, security credentials, and active device sessions from a centralized dashboard.

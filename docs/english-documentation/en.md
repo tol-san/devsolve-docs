@@ -1,3 +1,5 @@
+> 🌐 **Language / ភាសា:** [**🇰🇭 អានជាភាសាខ្មែរ**](../khmer-documentation/km.md) &nbsp;|&nbsp; **🇬🇧 English**
+
 # Welcome to DevSolve
 
 Welcome to the official documentation for **DevSolve**!
@@ -19,9 +21,9 @@ DevSolve is a premier Bug Bounty and Vulnerability Coordination Platform designe
 
 ## 🗺️ Documentation Map
 
-* [**1. Getting Started**](overview/)**:** Core concepts, account types, registration, and account security.
-* [**2. For Developers & Researchers**](finding-programs/)**:** Finding programs, crafting quality PoC submissions, tracking triage statuses, and claiming bounties.
-* [**3. For Companies & Organizations**](registration/)**:** Organization verification, launching bug bounty programs, defining asset scopes, and triaging reports.
-* [**4. Profile & Account**](edit-profile/)**:** Profile customization, following peers, notifications, drafts, and security settings.
-* [**5. Safety & Policies**](responsible-disclosure/)**:** Safe Harbor protections, Coordinated Disclosure policies, and community standards.
-* [**6. Frequently Asked Questions (FAQ)**](reports-faq/)**:** Detailed answers to common questions, dispute resolutions, and payout workflows.
+* [**1. Getting Started**](overview/README.md)**:** Core concepts, account types, registration, and account security.
+* [**2. For Developers & Researchers**](finding-programs/README.md)**:** Finding programs, crafting quality PoC submissions, tracking triage statuses, and claiming bounties.
+* [**3. For Companies & Organizations**](registration/README.md)**:** Organization verification, launching bug bounty programs, defining asset scopes, and triaging reports.
+* [**4. Profile & Account**](edit-profile/README.md)**:** Profile customization, following peers, notifications, drafts, and security settings.
+* [**5. Safety & Policies**](responsible-disclosure/README.md)**:** Safe Harbor protections, Coordinated Disclosure policies, and community standards.
+* [**6. Frequently Asked Questions (FAQ)**](reports-faq/README.md)**:** Detailed answers to common questions, dispute resolutions, and payout workflows.

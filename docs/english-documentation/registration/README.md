@@ -1,3 +1,5 @@
+> 🌐 **Language / ភាសា:** [**🇰🇭 អានជាភាសាខ្មែរ**](../../khmer-documentation/registration/README.md) &nbsp;|&nbsp; **🇬🇧 English**
+
 # 3. For Companies & Organizations
 
 To establish a trusted ecosystem and safeguard ethical researchers, all organizations must complete corporate registration and pass the **Company Verification** screening before launching public bug bounty programs.

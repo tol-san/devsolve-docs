@@ -1,3 +1,5 @@
+> 🌐 **Language / ភាសា:** [**🇰🇭 អានជាភាសាខ្មែរ**](../../khmer-documentation/registration/rewarding-researchers.md) &nbsp;|&nbsp; **🇬🇧 English**
+
 # Rewarding Researchers
 
 Expeditious bounty awards and fair compensation motivate talented researchers to continue safeguarding your product roadmap over the long term.

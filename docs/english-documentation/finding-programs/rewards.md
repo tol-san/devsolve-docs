@@ -1,3 +1,5 @@
+> 🌐 **Language / ភាសា:** [**🇰🇭 អានជាភាសាខ្មែរ**](../../khmer-documentation/finding-programs/rewards.md) &nbsp;|&nbsp; **🇬🇧 English**
+
 # Rewards & Reputation
 
 On DevSolve, your research excellence is recognized both monetarily through direct financial bounty payouts and professionally through global platform reputation.
@@ -26,7 +28,7 @@ Reputation points reflect your validated track record, technical accuracy, and a
 
 Once a company awards a monetary bounty, the funds immediately reflect in your platform wallet balance:
 
-1. **Balance Overview:** Visit [**Rewards & Balance**](../../../dashboard/rewards/) to inspect historical payouts, pending settlements, and downloadable tax invoices.
+1. **Balance Overview:** Visit [**Rewards & Balance**](https://devsolve-frontend.vercel.app/dashboard/rewards/) to inspect historical payouts, pending settlements, and downloadable tax invoices.
 2. **Supported Withdrawal Channels:**
    * **Direct Wire / Local Bank Transfer**
    * **Stripe / PayPal / Payoneer**

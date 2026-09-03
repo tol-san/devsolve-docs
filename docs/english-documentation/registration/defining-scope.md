@@ -1,3 +1,5 @@
+> 🌐 **Language / ភាសា:** [**🇰🇭 អានជាភាសាខ្មែរ**](../../khmer-documentation/registration/defining-scope.md) &nbsp;|&nbsp; **🇬🇧 English**
+
 # Defining Scope
 
 Your program’s Scope definition forms the legal contract between your organization and ethical hackers. Clear, unambiguous boundaries prevent unintended service disruptions and focus testing on your critical assets.

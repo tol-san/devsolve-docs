@@ -1,3 +1,5 @@
+> 🌐 **Language / ភាសា:** [**🇰🇭 អានជាភាសាខ្មែរ**](../../khmer-documentation/responsible-disclosure/report-rules.md) &nbsp;|&nbsp; **🇬🇧 English**
+
 # Report Quality Rules
 
 To maintain high standards across the platform and respect the operational capacity of security triagers, all researchers must adhere to technical report standards.

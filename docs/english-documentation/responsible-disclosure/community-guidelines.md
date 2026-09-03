@@ -1,3 +1,5 @@
+> 🌐 **Language / ភាសា:** [**🇰🇭 អានជាភាសាខ្មែរ**](../../khmer-documentation/responsible-disclosure/community-guidelines.md) &nbsp;|&nbsp; **🇬🇧 English**
+
 # Community Guidelines
 
 DevSolve is committed to maintaining a welcoming, professional, and collaborative cybersecurity community.

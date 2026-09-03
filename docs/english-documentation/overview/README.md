@@ -1,3 +1,5 @@
+> 🌐 **Language / ភាសា:** [**🇰🇭 អានជាភាសាខ្មែរ**](../../khmer-documentation/overview/README.md) &nbsp;|&nbsp; **🇬🇧 English**
+
 # 1. Getting Started
 
 **DevSolve** is an advanced Bug Bounty and Vulnerability Coordination Platform engineered to bridge the gap between ethical security researchers and modern organizations. By crowdsourcing cybersecurity talent, DevSolve empowers companies to proactively identify, triage, and patch security vulnerabilities before cybercriminals can exploit them.
@@ -8,9 +10,8 @@
 
 The end-to-end bug bounty lifecycle on DevSolve consists of four streamlined stages:
 
-```
-[Company Launches Program] ➔ [Researcher Finds Vulnerability] ➔ [Submit & Triage Report] ➔ [Remediate & Reward]
-```
+> 🔄 **Bug Bounty Workflow:**  
+> **Company Launches Program** → **Researcher Finds Vulnerability** → **Submit & Triage Report** → **Remediate & Reward**
 
 1. **Companies Define Programs:** An organization registers on DevSolve, specifies in-scope assets (web domains, mobile apps, APIs), outlines out-of-scope targets, and defines bounty reward grids.
 2. **Researchers Test In-Scope Targets:** Ethical hackers, penetration testers, and developers hunt for security vulnerabilities strictly adhering to the program's rules and guidelines.

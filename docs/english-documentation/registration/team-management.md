@@ -1,3 +1,5 @@
+> 🌐 **Language / ភាសា:** [**🇰🇭 អានជាភាសាខ្មែរ**](../../khmer-documentation/registration/team-management.md) &nbsp;|&nbsp; **🇬🇧 English**
+
 # Team Management
 
 Security is a team sport. DevSolve empowers organizations to onboard engineers, product owners, and executives with fine-grained role-based access control (RBAC).

@@ -1,3 +1,5 @@
+> 🌐 **Language / ភាសា:** [**🇰🇭 អានជាភាសាខ្មែរ**](../../khmer-documentation/edit-profile/notifications.md) &nbsp;|&nbsp; **🇬🇧 English**
+
 # Notifications
 
 Staying informed in real time guarantees you never miss critical triage updates, bounty distributions, or collaborative clarifications.

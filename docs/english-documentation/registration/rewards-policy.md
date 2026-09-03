@@ -1,3 +1,5 @@
+> 🌐 **Language / ភាសា:** [**🇰🇭 អានជាភាសាខ្មែរ**](../../khmer-documentation/registration/rewards-policy.md) &nbsp;|&nbsp; **🇬🇧 English**
+
 # Setting Rewards
 
 Offering a competitive, transparent, and predictable reward structure incentivizes elite researchers to commit time to probing your infrastructure.

@@ -1,3 +1,5 @@
+> 🌐 **Language / ភាសា:** [**🇰🇭 អានជាភាសាខ្មែរ**](../../khmer-documentation/responsible-disclosure/README.md) &nbsp;|&nbsp; **🇬🇧 English**
+
 # 5. Safety & Policies
 
 Coordinated Vulnerability Disclosure (CVD) represents the ethical cornerstone of the DevSolve security ecosystem, balancing the public interest in transparency with organizational needs for remediation lead time.

@@ -1,68 +1,88 @@
 /* ==========================================================================
    DevSolve Docs - Custom Stylesheet & Typography
-   Theme: Google Sans Khmer / Modern Developer Documentation
+   Primary Font: "Noto Sans Khmer", "Noto Sans", Arial, sans-serif
+   Monospace Font: 'JetBrains Mono', 'IBM Plex Mono', "Noto Sans Khmer", monospace
    ========================================================================== */
 
-@import url('https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;600;700&family=Kantumruy+Pro:ital,wght@0,300..700;1,300..700&family=Noto+Sans+Khmer:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Khmer:wght@300;400;500;600;700;800&family=Noto+Sans:ital,wght@0,400;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500&display=swap');
 
 :root {
-  --font-family-khmer: 'Google Sans Khmer', 'Kantumruy Pro', 'Noto Sans Khmer', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  --font-family-mono: 'JetBrains Mono', monospace;
+  --font-family-khmer: "Noto Sans Khmer", "Noto Sans", Arial, sans-serif;
+  --font-family-mono: 'JetBrains Mono', 'IBM Plex Mono', "Noto Sans Khmer", monospace;
   --color-primary: #0284c7;
   --color-primary-hover: #0369a1;
   --color-bg-subtle: #f8fafc;
   --color-border: #e2e8f0;
 }
 
-body, html, .gitbook-root, .markdown-body {
+/* Global Root & Markdown Body */
+html, body, .gitbook-root, .markdown-body, main, article {
   font-family: var(--font-family-khmer) !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  line-height: 1.75;
+}
+
+/* Headings H1 - H6 */
+h1, h2, h3, h4, h5, h6, .heading, [role="heading"] {
+  font-family: var(--font-family-khmer) !important;
+  font-weight: 700;
+  line-height: 1.4;
+  letter-spacing: -0.01em;
+}
+
+/* Paragraphs, Spans, Text Elements */
+p, span, div, label {
+  font-family: var(--font-family-khmer) !important;
+}
+
+/* Lists */
+ul, ol, li {
+  font-family: var(--font-family-khmer) !important;
   line-height: 1.7;
 }
 
-code, pre {
+/* Tables */
+table, th, td {
+  font-family: var(--font-family-khmer) !important;
+}
+
+th {
+  font-weight: 600;
+}
+
+/* Links */
+a, a:visited, a:hover, a:active {
+  font-family: var(--font-family-khmer) !important;
+}
+
+/* Navigation, Sidebar & Breadcrumbs */
+nav, .sidebar, .navigation, [role="navigation"],
+.breadcrumb, [aria-label="Breadcrumbs"], .menu-item {
+  font-family: var(--font-family-khmer) !important;
+}
+
+/* Callouts / Hints / Blockquotes */
+blockquote, .hint, .callout, [data-testid="hint"] {
+  font-family: var(--font-family-khmer) !important;
+}
+
+/* Buttons */
+button, .btn, .lang-btn, [role="button"] {
+  font-family: var(--font-family-khmer) !important;
+}
+
+/* Code & Monospace: Preserves monospace for code while gracefully rendering Khmer */
+code, pre, kbd, samp {
   font-family: var(--font-family-mono) !important;
 }
 
-/* Language Switcher UI Component */
-.lang-switcher-bar {
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
-  gap: 8px;
-  margin-bottom: 24px;
-  padding: 8px 12px;
-  background: #f8fafc;
-  border: 1px solid #e2e8f0;
-  border-radius: 12px;
-}
-
-.lang-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  padding: 6px 14px;
-  font-size: 13px;
-  font-weight: 600;
-  border-radius: 8px;
-  text-decoration: none;
-  transition: all 0.2s ease;
-}
-
-.lang-btn.active {
-  background: #0284c7;
-  color: #ffffff !important;
-  box-shadow: 0 2px 6px rgba(2, 132, 199, 0.25);
-}
-
-.lang-btn.inactive {
-  background: #ffffff;
-  color: #475569 !important;
-  border: 1px solid #cbd5e1;
-}
-
-.lang-btn.inactive:hover {
-  background: #f1f5f9;
-  border-color: #94a3b8;
+/* Language Switcher Component */
+.lang-switch-box {
+  background-color: #f8fafc;
+  border-left: 4px solid #0284c7;
+  padding: 10px 16px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  font-size: 14px;
 }

@@ -1,3 +1,5 @@
+> 🌐 **Language / ភាសា:** [**🇰🇭 អានជាភាសាខ្មែរ**](../../khmer-documentation/finding-programs/report-lifecycle.md) &nbsp;|&nbsp; **🇬🇧 English**
+
 # Report Lifecycle & Statuses
 
 Once submitted, your vulnerability report transitions through defined operational lifecycle states as the receiving organization reviews, reproduces, fixes, and rewards the finding.
@@ -6,12 +8,9 @@ Once submitted, your vulnerability report transitions through defined operationa
 
 ## 🔄 Vulnerability Report Lifecycle
 
-```
-[New / Pending] ➔ [Triaged] ➔ [Resolved] ➔ [Bounty Awarded]
-       │               │
-       ├── [Duplicate] └── [Informative / Not Applicable]
-       └── [Spam / Out of Scope]
-```
+> 🔄 **Report Lifecycle States:**  
+> **New / Pending** → **Triaged** → **Resolved** → **Bounty Awarded**  
+> *(Alternate states: Duplicate, Informative, Not Applicable, Out of Scope)*
 
 ### 1. `New / Pending`
 

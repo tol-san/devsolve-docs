@@ -1,3 +1,5 @@
+> 🌐 **Language / ភាសា:** [**🇰🇭 អានជាភាសាខ្មែរ**](../../khmer-documentation/responsible-disclosure/prohibited-activities.md) &nbsp;|&nbsp; **🇬🇧 English**
+
 # Prohibited Activities
 
 DevSolve enforces zero-tolerance measures against activities that compromise user privacy, degrade platform reliability, or cause harm to participating organizations.

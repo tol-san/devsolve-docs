@@ -1,3 +1,5 @@
+> 🌐 **Language / ភាសា:** [**🇰🇭 អានជាភាសាខ្មែរ**](../../khmer-documentation/reports-faq/disputes-faq.md) &nbsp;|&nbsp; **🇬🇧 English**
+
 # Disputes & Resolution
 
 Guidelines on managing unresponsive programs, severity disagreements, and mediation workflows.

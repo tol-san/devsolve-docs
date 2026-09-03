@@ -1,3 +1,5 @@
+> 🌐 **Language / ភាសា:** [**🇰🇭 អានជាភាសាខ្មែរ**](../../khmer-documentation/responsible-disclosure/safe-harbor.md) &nbsp;|&nbsp; **🇬🇧 English**
+
 # Safe Harbor Policy
 
 The DevSolve **Safe Harbor** framework establishes legally binding commitments from participating organizations, safeguarding ethical researchers from civil litigation and criminal prosecution when conducting good-faith security research.

@@ -1,3 +1,5 @@
+> 🌐 **Language / ភាសា:** [**🇰🇭 អានជាភាសាខ្មែរ**](../../khmer-documentation/finding-programs/community.md) &nbsp;|&nbsp; **🇬🇧 English**
+
 # Community Features
 
 DevSolve fosters an active, collaborative security ecosystem where researchers and developers can exchange knowledge, showcase accomplishments, and learn from industry peers.
@@ -6,7 +8,7 @@ DevSolve fosters an active, collaborative security ecosystem where researchers a
 
 ## ⚡ 1. Hacktivity Feed
 
-The [**Hacktivity Feed**](../../../hacktivity/) is a transparent, real-time activity stream displaying:
+The [**Hacktivity Feed**](https://devsolve-frontend.vercel.app/hacktivity/) is a transparent, real-time activity stream displaying:
 
 * Resolved vulnerability disclosures published with mutual consent between researchers and host organizations.
 * Public timelines celebrating awarded bounties and milestone resolutions.
@@ -16,7 +18,7 @@ The [**Hacktivity Feed**](../../../hacktivity/) is a transparent, real-time acti
 
 ## 🏅 2. Leaderboard & Global Rankings
 
-The [**Leaderboard**](../../../leaderboard/) highlights top security researchers across the globe:
+The [**Leaderboard**](https://devsolve-frontend.vercel.app/leaderboard/) highlights top security researchers across the globe:
 
 * Segmented rankings: Monthly, Quarterly, and All-Time.
 * Rank calculations derive from validated **Reputation Points**, signal-to-noise ratio, and severity weighting.
@@ -26,7 +28,7 @@ The [**Leaderboard**](../../../leaderboard/) highlights top security researchers
 
 ## 💬 3. Discussions Hub
 
-The [**Discussions Hub**](../../../discussions/) is your technical forum for collaborative problem-solving:
+The [**Discussions Hub**](https://devsolve-frontend.vercel.app/discussions/) is your technical forum for collaborative problem-solving:
 
 * Initiate discussion threads spanning Web Exploitation, Cloud & Container Security, Mobile Pentesting, and Zero-Day triage.
 * Upvote quality responses and bookmark practical problem-solving methodologies.
@@ -36,7 +38,7 @@ The [**Discussions Hub**](../../../discussions/) is your technical forum for col
 
 ## 🚀 4. Showcases
 
-The [**Showcases**](../../../showcases/) repository celebrates individual achievements:
+The [**Showcases**](https://devsolve-frontend.vercel.app/showcases/) repository celebrates individual achievements:
 
 * Publish in-depth technical writeups detailing complex exploitation chains (post-remediation and disclosure clearance).
 * Highlight open-source offensive tools, custom Burp Suite extensions, or recon automation scripts.

@@ -1,3 +1,5 @@
+> 🌐 **Language / ភាសា:** [**🇰🇭 អានជាភាសាខ្មែរ**](../../khmer-documentation/overview/account-types.md) &nbsp;|&nbsp; **🇬🇧 English**
+
 # Account Types
 
 DevSolve accommodates three distinct user roles tailored to their specific operational goals within the platform ecosystem:

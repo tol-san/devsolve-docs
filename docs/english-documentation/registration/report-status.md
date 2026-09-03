@@ -1,3 +1,5 @@
+> 🌐 **Language / ភាសា:** [**🇰🇭 អានជាភាសាខ្មែរ**](../../khmer-documentation/registration/report-status.md) &nbsp;|&nbsp; **🇬🇧 English**
+
 # Updating Report Status
 
 Prompt, accurate status transitions protect your organization's reputation within the hacker community and provide researchers with real-time insight into remediation progress.

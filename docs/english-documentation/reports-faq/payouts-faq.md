@@ -1,3 +1,5 @@
+> 🌐 **Language / ភាសា:** [**🇰🇭 អានជាភាសាខ្មែរ**](../../khmer-documentation/reports-faq/payouts-faq.md) &nbsp;|&nbsp; **🇬🇧 English**
+
 # Bounties & Payouts
 
 Frequently asked questions regarding financial settlements, withdrawal methods, and compliance requirements.

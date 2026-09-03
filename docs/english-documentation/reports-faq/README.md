@@ -1,3 +1,5 @@
+> 🌐 **Language / ភាសា:** [**🇰🇭 អានជាភាសាខ្មែរ**](../../khmer-documentation/reports-faq/README.md) &nbsp;|&nbsp; **🇬🇧 English**
+
 # 6. Frequently Asked Questions
 
 Frequently asked questions regarding vulnerability reporting, ticket states, and submission guidelines.

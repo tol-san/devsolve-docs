@@ -8,10 +8,10 @@ Welcome to the official documentation for **DevSolve** — a modern Bug Bounty a
 
 ## 🌐 Choose Your Language / សូមជ្រើសរើសភាសា
 
-| 🇰🇭 ភាសាខ្មែរ (Khmer)                      | 🇬🇧 English                                          |
+| 🇰🇭 ភាសាខ្មែរ (Khmer) | 🇬🇧 English |
 | ------------------------------------------- | ----------------------------------------------------- |
-| អានឯកសារណែនាំ និងរបៀបប្រើប្រាស់ជាភាសាខ្មែរ  | Read documentation and platform guides in English     |
-| 👉 [**ចូលអានជាភាសាខ្មែរ**](undefined/km.md) | 👉 [**Read in English**](english-documentation/en.md) |
+| អានឯកសារណែនាំ និងរបៀបប្រើប្រាស់ជាភាសាខ្មែរ | Read documentation and platform guides in English |
+| 👉 [**ចូលអានជាភាសាខ្មែរ**](khmer-documentation/km.md) | 👉 [**Read in English**](english-documentation/en.md) |
 
 ***
 
@@ -19,11 +19,11 @@ Welcome to the official documentation for **DevSolve** — a modern Bug Bounty a
 
 ### 🇰🇭 ភាសាខ្មែរ
 
-* [**ការចាប់ផ្តើមដំបូង**](undefined/overview/) — ស្វែងយល់ពី DevSolve និងរបៀបចុះឈ្មោះ
-* [**សម្រាប់ Researchers & Developers**](undefined/finding-programs/) — របៀបស្វែងរក Program និង Submit Report
-* [**សម្រាប់ក្រុមហ៊ុន (Organizations)**](undefined/registration/) — របៀបបង្កើត Program និងគ្រប់គ្រង Report
-* [**គោលការណ៍សុវត្ថិភាព (Rules & Policies)**](undefined/responsible-disclosure/) — Safe Harbor និងក្រមសីលធម៌
-* [**សំណួរដែលសួរញឹកញាប់ (FAQ)**](undefined/reports-faq/) — ចម្លើយចំពោះចម្ងល់នានា
+* [**ការចាប់ផ្តើមដំបូង**](khmer-documentation/overview/) — ស្វែងយល់ពី DevSolve និងរបៀបចុះឈ្មោះ
+* [**សម្រាប់ Researchers & Developers**](khmer-documentation/finding-programs/) — របៀបស្វែងរក Program និង Submit Report
+* [**សម្រាប់ក្រុមហ៊ុន (Organizations)**](khmer-documentation/registration/) — របៀបបង្កើត Program និងគ្រប់គ្រង Report
+* [**គោលការណ៍សុវត្ថិភាព (Rules & Policies)**](khmer-documentation/responsible-disclosure/) — Safe Harbor និងក្រមសីលធម៌
+* [**សំណួរដែលសួរញឹកញាប់ (FAQ)**](khmer-documentation/reports-faq/) — ចម្លើយចំពោះចម្ងល់នានា
 
 ### 🇬🇧 English
 

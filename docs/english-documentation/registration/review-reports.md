@@ -1,3 +1,5 @@
+> 🌐 **Language / ភាសា:** [**🇰🇭 អានជាភាសាខ្មែរ**](../../khmer-documentation/registration/review-reports.md) &nbsp;|&nbsp; **🇬🇧 English**
+
 # Reviewing & Triaging Reports
 
 Triage is the crucial verification phase during which incoming submissions are validated, duplicated reports are eliminated, and valid technical issues are routed to development teams.

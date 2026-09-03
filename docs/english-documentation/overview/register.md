@@ -1,3 +1,5 @@
+> 🌐 **Language / ភាសា:** [**🇰🇭 អានជាភាសាខ្មែរ**](../../khmer-documentation/overview/register.md) &nbsp;|&nbsp; **🇬🇧 English**
+
 # Account Registration
 
 Getting started on DevSolve is quick and straightforward. Choose your role and follow the registration guidelines below:

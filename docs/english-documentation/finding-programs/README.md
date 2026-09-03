@@ -1,3 +1,5 @@
+> 🌐 **Language / ភាសា:** [**🇰🇭 អានជាភាសាខ្មែរ**](../../khmer-documentation/finding-programs/README.md) &nbsp;|&nbsp; **🇬🇧 English**
+
 # 2. For Developers & Researchers
 
 Identifying the right Bug Bounty programs that match your specialized technical skills is the foundational step toward becoming a successful researcher on DevSolve.
