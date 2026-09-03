@@ -8,7 +8,7 @@ site:
       path: km
       default: true
       content:
-        directory: ./docs/khmer-documentation
+        directory: ./docs
     - type: space
       key: space-en
       title: 🇬🇧 English
