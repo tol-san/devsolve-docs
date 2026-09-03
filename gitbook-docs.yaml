@@ -1,19 +1,11 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: DevSolve Docs
+  title: devsolve Docs
   structure:
     - type: space
-      key: space-en
-      title: English
-      path: en
+      key: space-1
+      title: docs.devsolve.app
+      path: untitled
       default: true
       content:
-        directory: ./docs/en
-      language: en
-    - type: space
-      key: space-km
-      title: ភាសាខ្មែរ
-      path: km
-      content:
-        directory: ./docs/km
-      language: km
+        directory: ./docs
