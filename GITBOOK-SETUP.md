@@ -15,7 +15,10 @@ Each page contains a button-style link to its counterpart in the other space. Th
 
 In **GitBook → Site → Customization**, configure:
 
-1. Upload the DevSolve icon and light/dark logos.
+1. Upload the tightly cropped navbar logos so the artwork uses GitBook's available logo height:
+   - Light theme: `docs/assets/branding/devsolve-logo-light-navbar.png`
+   - Dark theme: `docs/assets/branding/devsolve-logo-dark-navbar.png`
+   - Do not upload the original `5000 × 3300` files. Their large transparent canvas makes the visible logo appear much smaller.
 2. Set the primary color to DevSolve blue (`#2563EB`).
 3. Enable light and dark mode and allow readers to switch.
 4. Select a clean sans-serif font for English.
@@ -70,6 +73,7 @@ Recommended footer links:
 ## Release check
 
 - Preview both spaces on desktop and mobile.
+- Confirm the cropped light and dark logos fill the navbar height without clipping.
 - Verify the language button on every page.
 - Confirm Noto Sans Khmer renders all Khmer text correctly.
 - Confirm Mermaid, code, hints, tables, images, and embeds render in both themes.
