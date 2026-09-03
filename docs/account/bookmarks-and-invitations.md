@@ -8,11 +8,9 @@
 
 ## Invitations
 
-បើក **Dashboard → Invitations** ដើម្បី Refresh និងពិនិត្យ Invitation។ ពិនិត្យ Organization, Role, Permissions, Sender និង Expiry មុន Accept។
-
-បើបើក Token Link ខណៈ Signed out, DevSolve ស្នើឱ្យ Sign in ហើយត្រឡប់ទៅ Invitation។ ប្រើ Email ដូចគ្នានឹង Email ដែលទទួល Invitation។ Expired, Accepted រួច ឬ Mismatched Invitation បង្ហាញ State ពន្យល់ពីមូលហេតុ។
+សម្រាប់ Acceptance Flow, Token-link Behavior, Expiry ៧ ថ្ងៃ និង Error Recovery សូមមើល [ទទួលយកការអញ្ជើញចូលអង្គការ](invitations.md)។
 
 ## Workspaces
 
-ក្រោយ Accept បើក **My Team** ដើម្បីមើល Organization, Membership, Colleagues និង Granted Permissions។ បើអ្នកនៅក្នុងអង្គការច្រើន ប្រើ Workspace Switcher មុនធ្វើ Action លើ Programs ឬ Reports។
+ក្រោយ Accept បើក **My Team** ដើម្បីមើល Organization, Membership, Role និង Granted Permissions។ វាមិនបង្ហាញ Colleague Roster ពេញលេញទេ។ បើអ្នកនៅក្នុងអង្គការច្រើន ប្រើ Sidebar Workspace Selector មុនធ្វើ Action លើ Programs ឬ Reports។ សូមមើល [ប្រើ My Team និងប្ដូរ Workspace](../organizations/my-team-and-workspaces.md)។
 

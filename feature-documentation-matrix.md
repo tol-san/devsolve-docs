@@ -30,14 +30,15 @@ This inventory maps user-facing frontend areas to the rewritten guide. Dynamic i
 | `/hacktivity` | Hacktivity | Public | Filter security activity and disclosures | Feed and empty states | Discover / Search and activity | Create | Implemented |
 | `/leaderboard` | Leaderboard | Public | Compare researcher reputation | Ranking period and empty states | Discover / Search and activity | Rewrite | Implemented |
 | `/profile/[username]` | Public profile | Public | View overview, Hacktivity, Community, thanks, follows | Not found, loading | Discover / Profiles | Rewrite | Implemented |
-| `/dashboard` | Dashboard | Signed-in user | View role-aware overview and actions | Role and organization context | Getting started / Navigation | Rewrite | Implemented |
+| `/dashboard` and Organization sidebar | Dashboard / Company Workspace | Signed-in user with an organization membership | View organization analytics and permission-aware tools | Active membership; organization pending, active, rejected, or suspended; analytics loading/error | Organizations / Company Workspace; Analytics and security | Rewrite | Implemented |
 | `/dashboard/profile` | My Profile | Signed-in user | View or edit profile | Loading and validation | Account / Profile and settings | Rewrite | Implemented |
 | `/dashboard/profile/settings` | Settings | Signed-in user | Manage available account preferences | Saved/error | Account / Profile and settings | Rewrite | Partially implemented |
 | `/dashboard/notifications` | Notifications | Signed-in user | Read, select, refresh, and mark notifications | Read/unread | Account / Notifications | Rewrite | Implemented |
 | `/dashboard/bookmarks` | Bookmarks | Researcher | Browse and remove saved content | Content type, empty state | Account / Bookmarks and invitations | Rewrite | Implemented |
-| `/dashboard/invitations` | Invitations | Signed-in user | Review and accept team invitations | Pending, accepted, expired/error | Account / Bookmarks and invitations | Create | Implemented |
-| `/invitations/[token]` | Invitation | Invite recipient | Sign in and accept an invitation | Valid, accepted, expired, mismatch | Account / Bookmarks and invitations | Create | Implemented |
-| `/dashboard/my-team` | My Team | Organization member | View joined workspace and granted permissions | Membership status | Organizations / Teams and permissions | Create | Implemented |
+| `/dashboard/invitations` | Invitations | Signed-in user | Refresh, review, and accept team invitations | Waiting, accepted, expired/error | Account / Invitations | Rewrite | Implemented |
+| `/invitations/[token]` | Invitation | Invite recipient using the invited email | Sign in and accept an invitation | Valid, accepted, expired, mismatch, withdrawn | Account / Invitations | Rewrite | Implemented |
+| `/dashboard/my-team` | My Team | Invited organization member; hidden for owner | View active organization, role, status, permissions, and allowed destinations | Active, awaiting verification, suspended, not approved | Organizations / My Team and workspaces | Rewrite | Implemented; full roster is intentionally unavailable here |
+| Dashboard sidebar Workspace selector | Workspace | Member of two or more organizations | Change the active organization for all company screens | Selection remembered; stale selection falls back to first membership | Organizations / My Team and workspaces | Create | Implemented; hidden for zero or one membership |
 | `/dashboard/my-reports` | Reports | Researcher | Search, filter, and open own reports | Submitted, triaging, accepted, resolved, rejected, retesting | Researchers / Reports and drafts | Rewrite | Implemented |
 | `/dashboard/my-reports/[id]` | Report detail | Report author | Review evidence, comments, rewards, and retests | Report lifecycle | Researchers / Report lifecycle | Rewrite | Implemented |
 | `/dashboard/submit-report` | Submit Report | Approved researcher | Select program/asset, document finding, attach evidence, submit | Draft, validation, security scan, submitted | Researchers / Submit a report | Rewrite | Implemented |
@@ -56,9 +57,9 @@ This inventory maps user-facing frontend areas to the rewritten guide. Dynamic i
 | `/dashboard/report-management/[id]/severity-review` | Severity Review | Triage permission | Confirm classification, severity, decision, and reward | Approved or rejected | Organizations / Report management | Create | Implemented |
 | `/dashboard/report-management/export` | Export Reports | Report permission | Configure an export | Export progress/history | Organizations / Report management | Create | Partially implemented; verify output before promising |
 | `/dashboard/researcher-access` | Researcher Access | `MANAGE_RESEARCHERS` | Invite, approve, reject, or revoke reporting access | Pending, approved, rejected/revoked | Organizations / Researcher access | Create | Implemented |
-| `/dashboard/team-management` | Team Management | Organization owner | Search members and manage roles/permissions | Invitation and membership statuses | Organizations / Teams and permissions | Rewrite | Implemented |
-| `/dashboard/team-management/invite-member` | Invite Member | Organization owner | Set email, role, permissions, and send invitation | Invitation created/error | Organizations / Teams and permissions | Create | Implemented |
-| `/dashboard/analytics` | Analytics | Organization access | Filter by Program and inspect security metrics | Loading, no data, error | Organizations / Analytics and security | Create | Implemented |
+| `/dashboard/team-management` | Team Management | Organization owner | Search/filter roster; view profiles; change roles/permissions; remove members or cancel invitations | Active and Invited | Organizations / Manage the team | Rewrite | Implemented; owner-only despite the unused `MANAGE_MEMBERS` type |
+| `/dashboard/team-management/invite`, `/dashboard/team-management/invite-member` | Invite Member | Organization owner | Set existing-account email, role, permissions, and send invitation; copy generated link | Invitation created, expiry, validation/API error | Organizations / Invite members | Rewrite | Implemented |
+| `/dashboard/analytics` | Analytics prototype | Direct route only; no sidebar entry | Preview charts and controls | Admin-overview or hard-coded fallback values | Organizations / Analytics and security | Keep warning only | Mock/legacy prototype; `/dashboard` is the implemented organization analytics surface |
 | `/dashboard/organization-security` | Security Incidents | `TRIAGE_REPORTS` | Review organization incidents | Incident/account status | Organizations / Analytics and security | Create | Implemented |
 | `/dashboard/company-verification` | Organization Verification | Admin | Review organization applications | Pending, approved, rejected | Administration / Verification and users | Create | Implemented |
 | `/dashboard/users` | Users | Admin | Search users and apply moderation actions | Active, suspended, pending | Administration / Verification and users | Create | Implemented |
@@ -74,4 +75,3 @@ This inventory maps user-facing frontend areas to the rewritten guide. Dynamic i
 ## Coverage rule
 
 A route is covered when its guide explains who can access it, how to reach it, its primary actions, its important states, and at least one recovery path for empty, validation, permission, or error conditions.
-

@@ -10,11 +10,9 @@ Select the bookmark action on supported content. Open **Dashboard → Bookmarks*
 
 ## Invitations
 
-Open **Dashboard → Invitations** to refresh and review invitations sent to your account. Check the organization, role, permissions, sender, and expiry before accepting.
-
-If you open a token link while signed out, DevSolve asks you to sign in and returns you to the invitation. Use the same email address that received the invitation. Expired, previously accepted, or mismatched invitations display a state explaining why they cannot be accepted.
+For the complete acceptance flow, token-link behavior, seven-day expiry, and error recovery, see [Accept organization invitations](invitations.md).
 
 ## Workspaces
 
-After acceptance, open **My Team** to see organization identity, membership, colleagues, and granted permissions. If you belong to more than one organization, use the sidebar workspace switcher before acting on Programs or Reports.
+After acceptance, open **My Team** to see the organization identity, membership, role, and granted permissions. It does not show the full colleague roster. If you belong to more than one organization, use the sidebar Workspace selector before acting on Programs or Reports. See [Use My Team and switch workspaces](../organizations/my-team-and-workspaces.md).
 
