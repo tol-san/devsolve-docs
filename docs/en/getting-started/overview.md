@@ -1,3 +1,8 @@
+<div align="right" style="margin-bottom: 20px;">
+  <a href="../../km/getting-started/overview.md" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 14px; background: #0284c7; color: #ffffff !important; border-radius: 20px; text-decoration: none; font-size: 13px; font-weight: 600; box-shadow: 0 2px 4px rgba(2, 132, 199, 0.2);">
+    🌐 អានជាភាសាខ្មែរ (🇰🇭) ➔
+  </a>
+</div>
 # What is DevSolve?
 
 **DevSolve** is an advanced Bug Bounty and Vulnerability Coordination Platform engineered to bridge the gap between ethical security researchers and modern organizations. By crowdsourcing cybersecurity talent, DevSolve empowers companies to proactively identify, triage, and patch security vulnerabilities before cybercriminals can exploit them.

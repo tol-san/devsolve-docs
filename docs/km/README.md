@@ -1,3 +1,19 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;600;700&family=Kantumruy+Pro:ital,wght@0,300..700;1,300..700&family=Noto+Sans+Khmer:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<style>
+  body, html, .markdown-body, div, p, span, h1, h2, h3, h4, h5, h6, a, li, button {
+    font-family: 'Google Sans Khmer', 'Kantumruy Pro', 'Noto Sans Khmer', system-ui, -apple-system, sans-serif !important;
+  }
+</style>
+
+<div align="right" style="margin-bottom: 24px;">
+  <a href="../en/README.md" style="display: inline-flex; align-items: center; gap: 8px; padding: 8px 18px; background: #0284c7; color: #ffffff !important; border-radius: 9999px; text-decoration: none; font-size: 13px; font-weight: 600; box-shadow: 0 2px 6px rgba(2, 132, 199, 0.3); transition: all 0.2s ease;">
+    🌐 Read in English (🇬🇧) ➔
+  </a>
+</div>
+
 # សេចក្តីផ្តើមអំពី DevSolve (Introduction)
 
 សូមស្វាគមន៍មកកាន់មជ្ឈមណ្ឌលឯកសារផ្លូវការរបស់ **DevSolve**!

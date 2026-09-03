@@ -1,3 +1,8 @@
+<div align="right" style="margin-bottom: 20px;">
+  <a href="../../en/getting-started/register.md" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 14px; background: #0284c7; color: #ffffff !important; border-radius: 20px; text-decoration: none; font-size: 13px; font-weight: 600; box-shadow: 0 2px 4px rgba(2, 132, 199, 0.2);">
+    🌐 Read in English (🇬🇧) ➔
+  </a>
+</div>
 # របៀបបង្កើតគណនី (Account Registration)
 
 ដើម្បីចាប់ផ្តើមប្រើប្រាស់ DevSolve អ្នកត្រូវបង្កើតគណនីស្របតាមតម្រូវការរបស់អ្នក ដោយអនុវត្តតាមជំហានងាយៗដូចខាងក្រោម៖

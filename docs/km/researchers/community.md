@@ -1,3 +1,8 @@
+<div align="right" style="margin-bottom: 20px;">
+  <a href="../../en/researchers/community.md" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 14px; background: #0284c7; color: #ffffff !important; border-radius: 20px; text-decoration: none; font-size: 13px; font-weight: 600; box-shadow: 0 2px 4px rgba(2, 132, 199, 0.2);">
+    🌐 Read in English (🇬🇧) ➔
+  </a>
+</div>
 # ការចូលរួមក្នុងសហគមន៍ (Community Features)
 
 DevSolve មិនត្រឹមតែជាកន្លែងស្វែងរក Bug ប៉ុណ្ណោះទេ ប៉ុន្តែជាសហគមន៍សុវត្ថិភាពឌីជីថលដ៏រស់រវើក ដែលអ្នកអាចចែករំលែកចំណេះដឹង បង្ហាញសមិទ្ធផល និងរៀនសូត្រពីអ្នកដទៃ។

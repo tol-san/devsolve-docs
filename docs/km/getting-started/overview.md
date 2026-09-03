@@ -1,3 +1,8 @@
+<div align="right" style="margin-bottom: 20px;">
+  <a href="../../en/getting-started/overview.md" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 14px; background: #0284c7; color: #ffffff !important; border-radius: 20px; text-decoration: none; font-size: 13px; font-weight: 600; box-shadow: 0 2px 4px rgba(2, 132, 199, 0.2);">
+    🌐 Read in English (🇬🇧) ➔
+  </a>
+</div>
 # DevSolve ជាអ្វី? (What is DevSolve?)
 
 **DevSolve** គឺជាវេទិកាសហការស្វែងរក និងគ្រប់គ្រងចន្លោះប្រហោងសុវត្ថិភាព (Bug Bounty & Vulnerability Coordination Platform) ដែលត្រូវបានបង្កើតឡើងដើម្បីកាត់បន្ថយហានិភ័យនៃការរងការវាយប្រហារតាមអ៊ីនធឺណិត (Cyberattacks) សម្រាប់ស្ថាប័ននានា និងផ្តល់ឱកាសស្របច្បាប់ដល់អ្នកស្រាវជ្រាវសុវត្ថិភាព (Security Researchers)។

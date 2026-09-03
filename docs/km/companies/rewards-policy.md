@@ -1,3 +1,8 @@
+<div align="right" style="margin-bottom: 20px;">
+  <a href="../../en/companies/rewards-policy.md" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 14px; background: #0284c7; color: #ffffff !important; border-radius: 20px; text-decoration: none; font-size: 13px; font-weight: 600; box-shadow: 0 2px 4px rgba(2, 132, 199, 0.2);">
+    🌐 Read in English (🇬🇧) ➔
+  </a>
+</div>
 # ការកំណត់រង្វាន់ Bounty (Rewards Policy)
 
 ការកំណត់កម្រិតរង្វាន់ដែលសមរម្យ និងមានតម្លាភាព នឹងលើកទឹកចិត្តឱ្យ Hackers កម្រិតកំពូលចំណាយពេលស្រាវជ្រាវលើប្រព័ន្ធរបស់អ្នក។

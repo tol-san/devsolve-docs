@@ -1,3 +1,8 @@
+<div align="right" style="margin-bottom: 20px;">
+  <a href="../../en/companies/review-reports.md" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 14px; background: #0284c7; color: #ffffff !important; border-radius: 20px; text-decoration: none; font-size: 13px; font-weight: 600; box-shadow: 0 2px 4px rgba(2, 132, 199, 0.2);">
+    🌐 Read in English (🇬🇧) ➔
+  </a>
+</div>
 # ការ Review & Triage Reports (Reviewing Reports)
 
 Triage គឺជាដំណើរការនៃការត្រួតពិនិត្យ ផ្ទៀងផ្ទាត់ និងចាត់ថ្នាក់របាយការណ៍ដែលផ្ញើចូលមកក្នុងប្រព័ន្ធរបស់ក្រុមហ៊ុន។

@@ -1,3 +1,8 @@
+<div align="right" style="margin-bottom: 20px;">
+  <a href="../../en/researchers/finding-programs.md" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 14px; background: #0284c7; color: #ffffff !important; border-radius: 20px; text-decoration: none; font-size: 13px; font-weight: 600; box-shadow: 0 2px 4px rgba(2, 132, 199, 0.2);">
+    🌐 Read in English (🇬🇧) ➔
+  </a>
+</div>
 # របៀបស្វែងរក Programs (Finding Programs)
 
 ការស្វែងរកកម្មវិធី Bug Bounty ដែលស័ក្តិសមជាមួយជំនាញរបស់អ្នក គឺជាជំហានដំបូងគេបង្អស់ដើម្បីក្លាយជា Security Researcher ដ៏ជោគជ័យនៅលើ DevSolve។

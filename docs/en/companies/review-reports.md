@@ -1,3 +1,8 @@
+<div align="right" style="margin-bottom: 20px;">
+  <a href="../../km/companies/review-reports.md" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 14px; background: #0284c7; color: #ffffff !important; border-radius: 20px; text-decoration: none; font-size: 13px; font-weight: 600; box-shadow: 0 2px 4px rgba(2, 132, 199, 0.2);">
+    🌐 អានជាភាសាខ្មែរ (🇰🇭) ➔
+  </a>
+</div>
 # Reviewing & Triaging Reports
 
 Triage is the crucial verification phase during which incoming submissions are validated, duplicated reports are eliminated, and valid technical issues are routed to development teams.

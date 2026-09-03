@@ -1,3 +1,8 @@
+<div align="right" style="margin-bottom: 20px;">
+  <a href="../../en/getting-started/account-types.md" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 14px; background: #0284c7; color: #ffffff !important; border-radius: 20px; text-decoration: none; font-size: 13px; font-weight: 600; box-shadow: 0 2px 4px rgba(2, 132, 199, 0.2);">
+    🌐 Read in English (🇬🇧) ➔
+  </a>
+</div>
 # ប្រភេទគណនី (Account Types)
 
 នៅលើ DevSolve ប្រព័ន្ធត្រូវបានរៀបចំឡើងដើម្បីបម្រើអ្នកប្រើប្រាស់ ៣ ប្រភេទសំខាន់ៗ ទៅតាមតួនាទី និងគោលបំណង៖

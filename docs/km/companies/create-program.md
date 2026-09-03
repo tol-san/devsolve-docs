@@ -1,3 +1,8 @@
+<div align="right" style="margin-bottom: 20px;">
+  <a href="../../en/companies/create-program.md" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 14px; background: #0284c7; color: #ffffff !important; border-radius: 20px; text-decoration: none; font-size: 13px; font-weight: 600; box-shadow: 0 2px 4px rgba(2, 132, 199, 0.2);">
+    🌐 Read in English (🇬🇧) ➔
+  </a>
+</div>
 # របៀបបង្កើត និងគ្រប់គ្រង Program (Creating Programs)
 
 ការបង្កើតកម្មវិធី Bug Bounty ច្បាស់លាស់នឹងទាក់ទាញ Security Researchers ដែលមានជំនាញខ្ពស់ និងកាត់បន្ថយរបាយការណ៍មិនពាក់ព័ន្ធ (Noise/False Positives)។

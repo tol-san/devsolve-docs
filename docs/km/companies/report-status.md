@@ -1,3 +1,8 @@
+<div align="right" style="margin-bottom: 20px;">
+  <a href="../../en/companies/report-status.md" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 14px; background: #0284c7; color: #ffffff !important; border-radius: 20px; text-decoration: none; font-size: 13px; font-weight: 600; box-shadow: 0 2px 4px rgba(2, 132, 199, 0.2);">
+    🌐 Read in English (🇬🇧) ➔
+  </a>
+</div>
 # ការ Update Report Status & Severity (Updating Status)
 
 ការធ្វើបច្ចុប្បន្នភាពស្ថានភាពនៃរបាយការណ៍ឱ្យបានទាន់ពេលវេលា បង្ហាញពីវិជ្ជាជីវៈរបស់ក្រុមហ៊ុន និងជួយរក្សាកេរ្តិ៍ឈ្មោះល្អរបស់ក្រុមហ៊ុនក្នុងចំណោម Security Researchers។

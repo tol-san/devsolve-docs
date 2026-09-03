@@ -1,3 +1,8 @@
+<div align="right" style="margin-bottom: 20px;">
+  <a href="../../km/safety/safe-harbor.md" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 14px; background: #0284c7; color: #ffffff !important; border-radius: 20px; text-decoration: none; font-size: 13px; font-weight: 600; box-shadow: 0 2px 4px rgba(2, 132, 199, 0.2);">
+    🌐 អានជាភាសាខ្មែរ (🇰🇭) ➔
+  </a>
+</div>
 # Safe Harbor Policy
 
 The DevSolve **Safe Harbor** framework establishes legally binding commitments from participating organizations, safeguarding ethical researchers from civil litigation and criminal prosecution when conducting good-faith security research.

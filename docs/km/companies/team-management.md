@@ -1,3 +1,8 @@
+<div align="right" style="margin-bottom: 20px;">
+  <a href="../../en/companies/team-management.md" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 14px; background: #0284c7; color: #ffffff !important; border-radius: 20px; text-decoration: none; font-size: 13px; font-weight: 600; box-shadow: 0 2px 4px rgba(2, 132, 199, 0.2);">
+    🌐 Read in English (🇬🇧) ➔
+  </a>
+</div>
 # ការគ្រប់គ្រងសមាជិកក្រុម (Team Management)
 
 ក្រុមហ៊ុនភាគច្រើនមានសមាជិកច្រើននាក់ដែលត្រូវចូលរួមក្នុងការពិនិត្យកូដ និងដោះស្រាយបញ្ហាសុវត្ថិភាព។ DevSolve ផ្តល់នូវប្រព័ន្ធគ្រប់គ្រងសមាជិកក្រុម និងការបែងចែកសិទ្ធិយ៉ាងលម្អិត។

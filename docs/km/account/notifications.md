@@ -1,3 +1,8 @@
+<div align="right" style="margin-bottom: 20px;">
+  <a href="../../en/account/notifications.md" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 14px; background: #0284c7; color: #ffffff !important; border-radius: 20px; text-decoration: none; font-size: 13px; font-weight: 600; box-shadow: 0 2px 4px rgba(2, 132, 199, 0.2);">
+    🌐 Read in English (🇬🇧) ➔
+  </a>
+</div>
 # Notifications (ប្រព័ន្ធជូនដំណឹង)
 
 ការទទួលបានដំណឹងទាន់ពេលវេលាធានាថាអ្នកមិនខកខានការឆ្លើយតបសំខាន់ៗអំពីរបាយការណ៍ចន្លោះប្រហោង ឬការបើកប្រាក់រង្វាន់ឡើយ។

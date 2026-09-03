@@ -1,3 +1,8 @@
+<div align="right" style="margin-bottom: 20px;">
+  <a href="../../en/researchers/rewards.md" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 14px; background: #0284c7; color: #ffffff !important; border-radius: 20px; text-decoration: none; font-size: 13px; font-weight: 600; box-shadow: 0 2px 4px rgba(2, 132, 199, 0.2);">
+    🌐 Read in English (🇬🇧) ➔
+  </a>
+</div>
 # ប្រព័ន្ធរង្វាន់ និងកេរ្តិ៍ឈ្មោះ (Rewards & Reputation)
 
 នៅលើ DevSolve ការខិតខំប្រឹងប្រែងរបស់អ្នកក្នុងការស្វែងរក និងរាយការណ៍ចន្លោះប្រហោងសុវត្ថិភាព នឹងទទួលបានការតបស្នងទាំងផ្នែកហិរញ្ញវត្ថុ និងកេរ្តិ៍ឈ្មោះក្នុងសហគមន៍។

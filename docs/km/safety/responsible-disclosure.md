@@ -1,3 +1,8 @@
+<div align="right" style="margin-bottom: 20px;">
+  <a href="../../en/safety/responsible-disclosure.md" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 14px; background: #0284c7; color: #ffffff !important; border-radius: 20px; text-decoration: none; font-size: 13px; font-weight: 600; box-shadow: 0 2px 4px rgba(2, 132, 199, 0.2);">
+    🌐 Read in English (🇬🇧) ➔
+  </a>
+</div>
 # គោលការណ៍ Responsible Disclosure
 
 គោលការណ៍នៃការរាយការណ៍ដោយការទទួលខុសត្រូវ (Responsible Disclosure ឬ Coordinated Vulnerability Disclosure - CVD) គឺជាគ្រឹះនៃទំនុកចិត្តរវាងអ្នកស្រាវជ្រាវសុវត្ថិភាព និងក្រុមហ៊ុននានាលើ DevSolve។

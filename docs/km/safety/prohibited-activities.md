@@ -1,3 +1,8 @@
+<div align="right" style="margin-bottom: 20px;">
+  <a href="../../en/safety/prohibited-activities.md" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 14px; background: #0284c7; color: #ffffff !important; border-radius: 20px; text-decoration: none; font-size: 13px; font-weight: 600; box-shadow: 0 2px 4px rgba(2, 132, 199, 0.2);">
+    🌐 Read in English (🇬🇧) ➔
+  </a>
+</div>
 # សកម្មភាពហាមឃាត់ដាច់ខាត (Prohibited Activities)
 
 DevSolve មានគោលជំហរម៉ឺងម៉ាត់បំផុតក្នុងការទប់ស្កាត់រាល់សកម្មភាពដែលមានចេតនាព្យាបាទ ឬបង្កការខូចខាតដល់ប្រព័ន្ធ។

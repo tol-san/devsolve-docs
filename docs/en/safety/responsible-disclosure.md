@@ -1,3 +1,8 @@
+<div align="right" style="margin-bottom: 20px;">
+  <a href="../../km/safety/responsible-disclosure.md" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 14px; background: #0284c7; color: #ffffff !important; border-radius: 20px; text-decoration: none; font-size: 13px; font-weight: 600; box-shadow: 0 2px 4px rgba(2, 132, 199, 0.2);">
+    🌐 អានជាភាសាខ្មែរ (🇰🇭) ➔
+  </a>
+</div>
 # Responsible Disclosure Policy
 
 Coordinated Vulnerability Disclosure (CVD) represents the ethical cornerstone of the DevSolve security ecosystem, balancing the public interest in transparency with organizational needs for remediation lead time.

@@ -1,3 +1,8 @@
+<div align="right" style="margin-bottom: 20px;">
+  <a href="../../en/safety/community-guidelines.md" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 14px; background: #0284c7; color: #ffffff !important; border-radius: 20px; text-decoration: none; font-size: 13px; font-weight: 600; box-shadow: 0 2px 4px rgba(2, 132, 199, 0.2);">
+    🌐 Read in English (🇬🇧) ➔
+  </a>
+</div>
 # ក្រមសីលធម៌សហគមន៍ (Community Guidelines)
 
 DevSolve ប្តេជ្ញាកសាងសហគមន៍មួយប្រកបដោយវិជ្ជាជីវៈ ការគោរពគ្នាទៅវិញទៅមក និងបរិយាកាសស្វាគមន៍សម្រាប់មនុស្សគ្រប់គ្នា។

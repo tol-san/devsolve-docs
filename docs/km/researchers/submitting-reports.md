@@ -1,3 +1,8 @@
+<div align="right" style="margin-bottom: 20px;">
+  <a href="../../en/researchers/submitting-reports.md" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 14px; background: #0284c7; color: #ffffff !important; border-radius: 20px; text-decoration: none; font-size: 13px; font-weight: 600; box-shadow: 0 2px 4px rgba(2, 132, 199, 0.2);">
+    🌐 Read in English (🇬🇧) ➔
+  </a>
+</div>
 # របៀប Submit Security Report (Submitting Reports)
 
 របាយការណ៍ដែលមានគុណភាពខ្ពស់ និងមានភស្តុតាងច្បាស់លាស់ នឹងជួយឱ្យក្រុមហ៊ុនងាយស្រួលផ្ទៀងផ្ទាត់ (Triage) ឆាប់ទទួលបានការជួសជុល និងឆាប់ទទួលបានប្រាក់រង្វាន់។

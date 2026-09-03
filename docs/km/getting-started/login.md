@@ -1,3 +1,8 @@
+<div align="right" style="margin-bottom: 20px;">
+  <a href="../../en/getting-started/login.md" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 14px; background: #0284c7; color: #ffffff !important; border-radius: 20px; text-decoration: none; font-size: 13px; font-weight: 600; box-shadow: 0 2px 4px rgba(2, 132, 199, 0.2);">
+    🌐 Read in English (🇬🇧) ➔
+  </a>
+</div>
 # របៀប Login និងសុវត្ថិភាពគណនី (Login & Security)
 
 ការការពារគណនីរបស់អ្នកនៅលើ DevSolve គឺជាកត្តាចម្បងបំផុត ព្រោះគណនីរបស់អ្នកផ្ទុកនូវរបាយការណ៍ចន្លោះប្រហោងសំខាន់ៗ ទិន្នន័យសម្ងាត់ និងព័ត៌មានហិរញ្ញវត្ថុ/ប្រាក់រង្វាន់។
