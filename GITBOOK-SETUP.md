@@ -40,6 +40,21 @@ python -m pip install fonttools brotli
 python ./scripts/build-khmer-fonts.py
 ```
 
+### Fix Khmer headings or active navigation using a fallback font
+
+GitBook uses the Bold upload for page titles and uses heavier UI weights for the selected sidebar item. If either one falls back, the Bold slot does not contain Khmer glyphs.
+
+1. Open **Site → Customization**.
+2. In the customization selector, choose **🇰🇭 ភាសាខ្មែរ**. A variant-specific setting overrides the site-wide setting.
+3. Open **General → Styling → Font family**.
+4. Remove or edit the existing Noto Sans Khmer custom font.
+5. Upload `docs/assets/fonts/NotoSansKhmer-Regular.woff2` into **Regular (400)**.
+6. Upload `docs/assets/fonts/NotoSansKhmer-Bold.woff2` into **Bold (700)**.
+7. Select that custom font as the Khmer variant's primary font and click **Save**.
+8. Hard-refresh the published Khmer page after GitBook finishes publishing.
+
+Do not use Google Fonts subset downloads whose names contain only `khmer` or only `latin`. The published CSS must reference `NotoSansKhmer-Regular.woff2` at weight 400 and `NotoSansKhmer-Bold.woff2` at weight 700. GitBook's heading family falls back to the primary content family, so a separate heading-font upload is not required.
+
 ## Integrations
 
 Enable the official Mermaid integration for both spaces. Test every Mermaid block in GitBook before publishing.
