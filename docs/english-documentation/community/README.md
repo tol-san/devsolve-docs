@@ -1,6 +1,6 @@
 # Community
 
-<a href="/km/community/" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/community/" class="button secondary">ខ្មែរ</a>
 
 Community is DevSolve’s public technical knowledge area. It contains Problems, the Solutions attached to those Problems, and independent Showcases.
 

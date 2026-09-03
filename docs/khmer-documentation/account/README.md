@@ -1,6 +1,6 @@
 # គណនី និងការសហការ
 
-<a href="/en/account/" class="button secondary">English</a>
+<a href="https://docs.devsolve.app/en/account/" class="button secondary">English</a>
 
 គណនីរបស់អ្នកភ្ជាប់ Public Identity, Notification Inbox, Saved Content និង Organization Invitations។
 

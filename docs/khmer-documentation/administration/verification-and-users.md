@@ -1,6 +1,6 @@
 # ការផ្ទៀងផ្ទាត់ និងគ្រប់គ្រងអ្នកប្រើ
 
-<a href="/en/administration/verification-and-users" class="button secondary">English</a>
+<a href="https://docs.devsolve.app/en/administration/verification-and-users" class="button secondary">English</a>
 
 ## Verify Organizations
 

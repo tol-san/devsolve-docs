@@ -1,6 +1,6 @@
 # គណនី ការចុះឈ្មោះ និងការចូលប្រើ
 
-<a href="/en/getting-started/accounts-and-sign-in" class="button secondary">English</a>
+<a href="https://docs.devsolve.app/en/getting-started/accounts-and-sign-in" class="button secondary">English</a>
 
 ជ្រើសគណនី Individual ដើម្បីចូលរួមដោយផ្ទាល់ ឬគណនី Organization ដើម្បីដំណើរការ Security Programs។
 

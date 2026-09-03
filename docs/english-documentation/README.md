@@ -1,6 +1,6 @@
 # Welcome to DevSolve
 
-<a href="/km/" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/" class="button secondary">ខ្មែរ</a>
 
 DevSolve brings public technical knowledge-sharing and private vulnerability coordination into one platform.
 

@@ -1,6 +1,6 @@
 # Navigate DevSolve
 
-<a href="/km/getting-started/navigation" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/getting-started/navigation" class="button secondary">ខ្មែរ</a>
 
 DevSolve has a public navigation bar and a role-aware Dashboard sidebar.
 

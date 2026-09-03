@@ -9,7 +9,7 @@ The repository publishes two GitBook spaces through `gitbook-docs.yaml`:
 - `/km` — Khmer, the default space
 - `/en` — English
 
-Each page contains a button-style link to its counterpart in the other space. Keep counterpart slugs identical whenever possible.
+Each page contains a button-style link to its counterpart in the other space. The button uses the complete `https://docs.devsolve.app/en/...` or `https://docs.devsolve.app/km/...` URL so it also works in GitHub previews. Keep counterpart slugs identical whenever possible.
 
 ## Appearance
 
@@ -56,4 +56,3 @@ Recommended footer links:
 - Confirm Noto Sans Khmer renders all Khmer text correctly.
 - Confirm Mermaid, code, hints, tables, images, and embeds render in both themes.
 - Save site-wide customization before configuring any space-specific override.
-

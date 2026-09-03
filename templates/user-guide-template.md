@@ -1,6 +1,6 @@
 # Task title
 
-<a href="/other-language/matching-slug" class="button secondary">Other language</a>
+<a href="https://docs.devsolve.app/other-language/matching-slug" class="button secondary">Other language</a>
 
 State the result the reader will achieve.
 
@@ -52,4 +52,3 @@ Explain the cause and resolution.
 ## Related guides
 
 - [Related guide](related-guide.md)
-

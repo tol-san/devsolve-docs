@@ -1,6 +1,6 @@
 # Getting started
 
-<a href="/km/getting-started/" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/getting-started/" class="button secondary">ខ្មែរ</a>
 
 DevSolve supports security researchers, developers, organization owners and members, and platform administrators.
 

@@ -1,6 +1,6 @@
 # Prohibited activities
 
-<a href="/km/policies/prohibited-activities" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/policies/prohibited-activities" class="button secondary">ខ្មែរ</a>
 
 Unless a Program explicitly authorizes an activity, do not perform or publish:
 

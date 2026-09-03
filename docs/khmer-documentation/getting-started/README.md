@@ -1,6 +1,6 @@
 # ចាប់ផ្តើមប្រើប្រាស់
 
-<a href="/en/getting-started/" class="button secondary">English</a>
+<a href="https://docs.devsolve.app/en/getting-started/" class="button secondary">English</a>
 
 DevSolve គាំទ្រ Security Researcher, Developer, ម្ចាស់ និងសមាជិកអង្គការ ព្រមទាំង Platform Administrator។
 

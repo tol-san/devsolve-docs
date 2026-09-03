@@ -1,6 +1,6 @@
 # សុវត្ថិភាព និងគោលការណ៍
 
-<a href="/en/policies/" class="button secondary">English</a>
+<a href="https://docs.devsolve.app/en/policies/" class="button secondary">English</a>
 
 មគ្គុទ្ទេសក៍ទាំងនេះពន្យល់អំពីអាកប្បកិរិយាសុវត្ថិភាពលើ Platform។ Scope និង Rules របស់ Program អាចតឹងរឹងជាង ហើយត្រូវគោរពដែរ។
 

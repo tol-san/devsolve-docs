@@ -1,6 +1,6 @@
 # Organization guide
 
-<a href="/km/organizations/" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/organizations/" class="button secondary">ខ្មែរ</a>
 
 The organization workspace covers identity verification, Programs, team access, researcher approval, private Report handling, analytics, and security incidents.
 

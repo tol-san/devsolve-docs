@@ -1,6 +1,6 @@
 # Reports និង Saved Drafts
 
-<a href="/en/researchers/reports-and-drafts" class="button secondary">English</a>
+<a href="https://docs.devsolve.app/en/researchers/reports-and-drafts" class="button secondary">English</a>
 
 ប្រើ **Reports** ដើម្បីតាមដាន Findings ដែលបាន Submit និង **Saved Drafts** ដើម្បីបន្ត Submission ដែលមិនទាន់បញ្ចប់។
 

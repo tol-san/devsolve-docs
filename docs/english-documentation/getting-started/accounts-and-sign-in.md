@@ -1,6 +1,6 @@
 # Accounts, registration, and sign-in
 
-<a href="/km/getting-started/accounts-and-sign-in" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/getting-started/accounts-and-sign-in" class="button secondary">ខ្មែរ</a>
 
 Choose an individual account to participate personally or an organization account to operate security Programs.
 

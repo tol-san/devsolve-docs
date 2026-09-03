@@ -1,6 +1,6 @@
 # Profile and settings
 
-<a href="/km/account/profile-and-settings" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/account/profile-and-settings" class="button secondary">ខ្មែរ</a>
 
 Your public profile helps other users understand your identity and contributions.
 

@@ -1,6 +1,6 @@
 # Rewards, reputation, and recognition
 
-<a href="/km/researchers/rewards-and-reputation" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/researchers/rewards-and-reputation" class="button secondary">ខ្មែរ</a>
 
 DevSolve distinguishes organization-funded bounty records, platform reputation, and Hall of Thanks recognition.
 

@@ -32,16 +32,16 @@ Use `##` for major sections and `###` for step titles. Avoid decorative emoji in
 English pages use:
 
 ```html
-<a href="/km/matching-slug" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/matching-slug" class="button secondary">ខ្មែរ</a>
 ```
 
 Khmer pages use:
 
 ```html
-<a href="/en/matching-slug" class="button secondary">English</a>
+<a href="https://docs.devsolve.app/en/matching-slug" class="button secondary">English</a>
 ```
 
-The switch must point to the matching topic, not only the other language’s home page.
+The switch must point to the matching topic, not only the other language’s home page. Use the complete published URL so the button also works when somebody previews the Markdown on GitHub.
 
 ## GitBook blocks
 
@@ -92,4 +92,3 @@ Preserve recognizable English UI labels in Khmer pages and explain them in Khmer
 ## Maintenance
 
 When a frontend feature changes, review its route, visible label, required role or permission, form fields, states, empty/error states, and related documentation links. Update English first, then update the matching Khmer page in the same change.
-

@@ -1,6 +1,6 @@
 # Safety and policies
 
-<a href="/km/policies/" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/policies/" class="button secondary">ខ្មែរ</a>
 
 These guides describe safe platform behavior. A Program’s specific Scope and Rules can be more restrictive and must also be followed.
 

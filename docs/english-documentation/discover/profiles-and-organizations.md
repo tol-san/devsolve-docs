@@ -1,6 +1,6 @@
 # Profiles and organizations
 
-<a href="/km/discover/profiles-and-organizations" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/discover/profiles-and-organizations" class="button secondary">ខ្មែរ</a>
 
 Public profiles show identity and contribution information that a user or organization has chosen or is allowed to expose.
 

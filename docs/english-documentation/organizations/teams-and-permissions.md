@@ -1,6 +1,6 @@
 # Teams, roles, and permissions
 
-<a href="/km/organizations/teams-and-permissions" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/organizations/teams-and-permissions" class="button secondary">ខ្មែរ</a>
 
 Organization owners invite existing DevSolve users and grant only the capabilities they need.
 

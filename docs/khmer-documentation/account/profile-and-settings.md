@@ -1,6 +1,6 @@
 # Profile និង Settings
 
-<a href="/en/account/profile-and-settings" class="button secondary">English</a>
+<a href="https://docs.devsolve.app/en/account/profile-and-settings" class="button secondary">English</a>
 
 Public Profile ជួយអ្នកប្រើផ្សេងយល់ពី Identity និង Contributions របស់អ្នក។
 

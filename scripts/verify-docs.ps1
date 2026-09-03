@@ -33,7 +33,7 @@ foreach ($language in @("en", "km")) {
                 $errors.Add("Expected one H1: $language/$relativePath ($h1Count)")
             }
 
-            $switchPattern = '<a href="/{0}/([^"]*)" class="button secondary">' -f $counterpart
+            $switchPattern = '<a href="https://docs\.devsolve\.app/{0}/([^"]*)" class="button secondary">' -f $counterpart
             $switch = [regex]::Match($content, $switchPattern)
             if (-not $switch.Success) {
                 $errors.Add("Invalid language target: $language/$relativePath")
@@ -108,4 +108,3 @@ if ($errors.Count -gt 0) {
 Write-Host "DevSolve Docs verification passed."
 Write-Host "English pages: $($englishPaths.Count)"
 Write-Host "Khmer pages: $($khmerPaths.Count)"
-

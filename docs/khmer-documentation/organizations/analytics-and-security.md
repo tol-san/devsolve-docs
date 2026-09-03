@@ -1,6 +1,6 @@
 # Analytics និង Security Incidents
 
-<a href="/en/organizations/analytics-and-security" class="button secondary">English</a>
+<a href="https://docs.devsolve.app/en/organizations/analytics-and-security" class="button secondary">English</a>
 
 ## Analytics
 

@@ -1,6 +1,6 @@
 # Responsible Disclosure
 
-<a href="/en/policies/responsible-disclosure" class="button secondary">English</a>
+<a href="https://docs.devsolve.app/en/policies/responsible-disclosure" class="button secondary">English</a>
 
 Responsible Disclosure រក្សា Sensitive Finding ជាឯកជន ខណៈ Organization ផ្ទៀងផ្ទាត់ និងដោះស្រាយ។
 

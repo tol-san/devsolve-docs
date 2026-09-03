@@ -1,6 +1,6 @@
 # Notifications
 
-<a href="/km/account/notifications" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/account/notifications" class="button secondary">ខ្មែរ</a>
 
 Notifications keep supported account, Community, access, team, Program, and Report events in one place.
 

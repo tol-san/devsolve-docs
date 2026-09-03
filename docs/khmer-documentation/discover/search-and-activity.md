@@ -1,6 +1,6 @@
 # Search, Hacktivity និង Leaderboard
 
-<a href="/en/discover/search-and-activity" class="button secondary">English</a>
+<a href="https://docs.devsolve.app/en/discover/search-and-activity" class="button secondary">English</a>
 
 ## Global Search
 

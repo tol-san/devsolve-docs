@@ -1,6 +1,6 @@
 # Responsible disclosure
 
-<a href="/km/policies/responsible-disclosure" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/policies/responsible-disclosure" class="button secondary">ខ្មែរ</a>
 
 Responsible disclosure keeps sensitive findings private while the affected organization validates and addresses them.
 

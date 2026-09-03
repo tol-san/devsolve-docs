@@ -1,6 +1,6 @@
 # Reports and saved drafts
 
-<a href="/km/researchers/reports-and-drafts" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/researchers/reports-and-drafts" class="button secondary">ខ្មែរ</a>
 
 Use **Reports** to track submitted findings and **Saved Drafts** to resume incomplete submissions.
 

@@ -1,6 +1,6 @@
 # គ្រប់គ្រង Researcher Access
 
-<a href="/en/organizations/researcher-access" class="button secondary">English</a>
+<a href="https://docs.devsolve.app/en/organizations/researcher-access" class="button secondary">English</a>
 
 Researcher Access កំណត់អ្នកខាងក្រៅដែលអាច Report ទៅ Programs របស់អង្គការ។
 

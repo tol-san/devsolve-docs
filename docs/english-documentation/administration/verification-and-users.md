@@ -1,6 +1,6 @@
 # Verification and user management
 
-<a href="/km/administration/verification-and-users" class="button secondary">ខ្មែរ</a>
+<a href="https://docs.devsolve.app/km/administration/verification-and-users" class="button secondary">ខ្មែរ</a>
 
 ## Verify organizations
 
