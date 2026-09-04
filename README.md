@@ -7,7 +7,7 @@ DevSolve's user documentation is published in English and Khmer.
 | English | [Read English documentation](https://docs.devsolve.app/en/) | [Browse English source](docs/english-documentation/README.md) |
 | ភាសាខ្មែរ | [អានឯកសារភាសាខ្មែរ](https://docs.devsolve.app/km/) | [មើលកូដឯកសារភាសាខ្មែរ](docs/README.md) |
 
-The `/en` and `/km` paths are routes on the published GitBook site. In this GitHub repository, English is stored in `docs/english-documentation`, while Khmer—the default space—is stored directly in `docs`.
+The `/en` and `/km` paths are routes on the published GitBook site. In this GitHub repository, English—the default space—is stored in `docs/english-documentation`, while Khmer is stored directly in `docs`.
 
 Before publishing changes, run:
 

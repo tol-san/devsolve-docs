@@ -6,10 +6,10 @@ This checklist records the site settings that cannot be controlled by files in t
 
 The repository publishes two GitBook spaces through `gitbook-docs.yaml`:
 
-- `/km` — Khmer, the default space sourced from `docs/`
-- `/en` — English, sourced from `docs/english-documentation/`
+- `/en` — English, the default space sourced from `docs/english-documentation/`
+- `/km` — Khmer, sourced from `docs/`
 
-Each page contains a button-style link to its counterpart in the other space. The button uses the complete `https://docs.devsolve.app/en/...` or `https://docs.devsolve.app/km/...` URL so it also works in GitHub previews. Keep counterpart slugs identical whenever possible.
+Each page contains a counterpart link to the other language space. Keep counterpart slugs identical whenever possible.
 
 ## Appearance
 
@@ -30,8 +30,16 @@ In **GitBook → Site → Customization**, configure:
 8. Use rounded corners, subtle shadows, and underlined links on hover.
 9. Give `info`, `success`, `warning`, and `danger` hints distinct semantic colors.
 10. Choose an adaptive code theme that works in light and dark mode.
+11. Set custom flag icons for each space/variant under **Site → Customization → [Choose Space/Variant] → General → Icon**:
+   - English space (`/en`): upload `docs/assets/flags/flag-en.svg` (or `flag-united-kingdom.svg`)
+   - Khmer space (`/km`): upload `docs/assets/flags/flag-km.svg` (or `flag-cambodia.svg`)
+   *(Note: On Windows systems, text emojis `🇬🇧` and `🇰🇭` in dropdown titles render as `GB` and `KH` due to Microsoft Segoe UI Emoji font behavior, while macOS/iOS/Android render full-color flags. Uploading the SVG icons gives explicit flag visuals across all platforms).*
 
 GitBook does not allow arbitrary site CSS or JavaScript. The `styles/theme.css` files are retained only for non-GitBook preview tools and must not be treated as the published theme.
+
+### Powered by GitBook badge
+
+GitBook's platform policy does not provide a native setting to remove or hide the "Powered by GitBook" badge on published standalone sites (regardless of subscription tier). Hiding the trademark (`trademark: false`) is officially supported only when embedding documentation within another web application via the GitBook Embed SDK / iframe. For standalone custom domains, the badge is hardcoded into GitBook's hosted application shell unless served behind a reverse proxy (such as Cloudflare Workers / HTMLRewriter).
 
 The font binaries can be rebuilt from Google Fonts' official Noto Sans Khmer variable font with:
 
