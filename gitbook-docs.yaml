@@ -4,14 +4,14 @@ site:
   structure:
     - type: space
       key: space-en
-      title: 🇬🇧 English
+      title: English
       path: en
       default: true
       content:
         directory: ./docs/english-documentation
     - type: space
       key: space-1
-      title: 🇰🇭 ភាសាខ្មែរ
+      title: ភាសាខ្មែរ
       path: km
       content:
         directory: ./docs

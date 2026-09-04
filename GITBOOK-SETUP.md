@@ -77,7 +77,7 @@ In **Customization → Layout → Header → Navigation**, add this two-level dr
   - `🇰🇭 ខ្មែរ` → `https://docs.devsolve.app/km/`
   - `🇬🇧 English` → `https://docs.devsolve.app/en/`
 
-Use normal-link styling for the dropdown. Keep both flag-prefixed space titles in `gitbook-docs.yaml`. GitBook currently treats the two spaces as variants and shows its native picker in the sidebar; the custom header dropdown makes the language choice visible in the navbar as requested.
+Use normal-link styling for the dropdown. Space titles in `gitbook-docs.yaml` use clean names (`English` and `ភាសាខ្មែរ`) to prevent Windows from rendering flag emojis as `GB` and `KH` in the sidebar variant dropdown. The header navigation dropdown provides the visible language choice in the navbar.
 
 Recommended header links:
 
