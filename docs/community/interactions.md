@@ -1,7 +1,5 @@
 # Vote, Comment, Bookmark និង Follow
 
-<a href="https://docs.devsolve.app/en/community/interactions" class="button secondary">🇬🇧 English</a>
-
 ## Vote
 
 ប្រើ Vote Control លើ Problems និង Solutions ដែលគាំទ្រ ដើម្បីបង្ហាញថាមាតិកាមានប្រយោជន៍។ Vote តាមគុណភាពបច្ចេកទេស មិនមែនតាមទំនាក់ទំនងផ្ទាល់ខ្លួន។

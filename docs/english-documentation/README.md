@@ -1,7 +1,5 @@
 # Welcome to DevSolve
 
-<a href="https://docs.devsolve.app/km/" class="button secondary">🇰🇭 ខ្មែរ</a>
-
 DevSolve brings public technical knowledge-sharing and private vulnerability coordination into one platform.
 
 {% hint style="info" %}
@@ -33,4 +31,4 @@ Do not publish sensitive vulnerability details as a Community Problem. Use a pri
 
 ## Languages
 
-DevSolve Docs is available in English and Khmer. Use the language button at the beginning of any page to open the matching guide in the other language.
+DevSolve Docs is available in English and Khmer. Use the language selector in the navigation bar to open the documentation in the other language.

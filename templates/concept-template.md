@@ -1,7 +1,5 @@
 # Concept title
 
-<a href="/other-language/matching-slug" class="button secondary">Other language</a>
-
 Define the concept in one paragraph.
 
 ## How it works

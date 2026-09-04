@@ -1,7 +1,5 @@
 # សំណួរដែលសួរញឹកញាប់
 
-<a href="https://docs.devsolve.app/en/faq/" class="button secondary">🇬🇧 English</a>
-
 ## តើ DevSolve មានតែ Vulnerability Reports ឬ?
 
 ទេ។ DevSolve មាន Public Problems, Solutions, Showcases; Security Programs និង Private Reports; Profiles, Follows, Bookmarks, Hacktivity, Leaderboard, Teams និង Organization/Admin Workspaces។

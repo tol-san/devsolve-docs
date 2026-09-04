@@ -1,7 +1,5 @@
 # Task title
 
-<a href="https://docs.devsolve.app/other-language/matching-slug" class="button secondary">🏳️ Other language</a>
-
 State the result the reader will achieve.
 
 {% hint style="info" %}

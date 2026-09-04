@@ -1,7 +1,5 @@
 # សកម្មភាពដែលហាមឃាត់
 
-<a href="https://docs.devsolve.app/en/policies/prohibited-activities" class="button secondary">🇬🇧 English</a>
-
 លុះត្រាតែ Program អនុញ្ញាតច្បាស់លាស់ កុំធ្វើ ឬ Publish៖
 
 - Denial-of-Service ឬ Destructive/Availability-impacting Test

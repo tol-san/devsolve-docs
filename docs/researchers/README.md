@@ -1,7 +1,5 @@
 # មគ្គុទ្ទេសក៍ Researcher
 
-<a href="https://docs.devsolve.app/en/researchers/" class="button secondary">🇬🇧 English</a>
-
 Researcher Workspace ជួយអ្នកស្នើសិទ្ធិ រាយការណ៍ភាពងាយរងគ្រោះជាឯកជន តាមដានសេចក្តីសម្រេច ឆ្លើយតប Retest និងទទួល Reputation ឬ Recognition។
 
 ```mermaid

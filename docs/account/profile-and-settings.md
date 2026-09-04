@@ -1,7 +1,5 @@
 # Profile និង Settings
 
-<a href="https://docs.devsolve.app/en/account/profile-and-settings" class="button secondary">🇬🇧 English</a>
-
 Public Profile ជួយអ្នកប្រើផ្សេងយល់ពី Identity និង Contributions របស់អ្នក។
 
 បើក **Dashboard → Profile** ហើយកែ៖

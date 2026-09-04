@@ -16,32 +16,25 @@ This guide is the source of truth for writing the English and Khmer user guides.
 Every task guide should include:
 
 1. A single `#` page title.
-2. The counterpart-language button.
-3. A short purpose statement.
-4. An availability and navigation hint.
-5. Prerequisites, when necessary.
-6. Numbered steps or a GitBook stepper.
-7. The expected result.
-8. Status or permission explanations.
-9. Troubleshooting and related guides.
+2. A short purpose statement.
+3. An availability and navigation hint.
+4. Prerequisites, when necessary.
+5. Numbered steps or a GitBook stepper.
+6. The expected result.
+7. Status or permission explanations.
+8. Troubleshooting and related guides.
 
 Use `##` for major sections and `###` for step titles. Avoid decorative emoji in headings.
 
-## Language switch
+## Language navigation
 
-English pages use:
+Language switching is handled at the site level through GitBook's header navigation dropdown and space/variant selector:
 
-```html
-<a href="https://docs.devsolve.app/km/matching-slug" class="button secondary">🇰🇭 ខ្មែរ</a>
-```
+- `🌐 Language`
+  - `🇰🇭 ខ្មែរ` → `https://docs.devsolve.app/km/`
+  - `🇬🇧 English` → `https://docs.devsolve.app/en/`
 
-Khmer pages use:
-
-```html
-<a href="https://docs.devsolve.app/en/matching-slug" class="button secondary">🇬🇧 English</a>
-```
-
-The switch must point to the matching topic, not only the other language’s home page. Use the complete published URL so the button also works when somebody previews the Markdown on GitHub.
+Do not insert inline language switcher buttons into individual page Markdown files. Maintain matching file paths and slug structures between English and Khmer documentation so both variants remain fully in sync.
 
 ## GitBook blocks
 

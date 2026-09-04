@@ -1,7 +1,5 @@
 # ច្បាប់ Community និងគុណភាព Report
 
-<a href="https://docs.devsolve.app/en/policies/community-and-report-rules" class="button secondary">🇬🇧 English</a>
-
 ## Community Content
 
 - ប្រើ Title ច្បាស់ និង Context គ្រប់គ្រាន់។

@@ -1,7 +1,5 @@
 # Community review and statuses
 
-<a href="https://docs.devsolve.app/km/community/moderation-and-statuses" class="button secondary">🇰🇭 ខ្មែរ</a>
-
 Community review protects the public knowledge base. Visibility and editing actions depend on content type, ownership, and status.
 
 ## Problem lifecycle

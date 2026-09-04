@@ -1,7 +1,5 @@
 # Invite members
 
-<a href="https://docs.devsolve.app/km/organizations/invite-members" class="button secondary">🇰🇭 ខ្មែរ</a>
-
 The organization Owner can invite an existing DevSolve user into the Company Workspace and choose the access they receive.
 
 ## Before inviting someone

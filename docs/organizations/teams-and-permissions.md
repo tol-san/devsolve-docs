@@ -1,7 +1,5 @@
 # ក្រុម តួនាទី និងសិទ្ធិ
 
-<a href="https://docs.devsolve.app/en/organizations/teams-and-permissions" class="button secondary">🇬🇧 English</a>
-
 Role ពណ៌នាពីភារកិច្ចទូទៅរបស់ Team Member។ Explicit Permissions កំណត់ថា Company Workspace Tools ណាខ្លះដែលបង្ហាញ។ Organization Owner គ្រប់គ្រងទាំងពីរតាម **Team Management**។
 
 ## Roles

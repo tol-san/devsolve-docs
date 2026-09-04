@@ -1,7 +1,5 @@
 # Use My Team and switch workspaces
 
-<a href="https://docs.devsolve.app/km/organizations/my-team-and-workspaces" class="button secondary">🇰🇭 ខ្មែរ</a>
-
 **My Team** is the member-facing view of an organization you joined. It answers three questions: which organization is active, what role you hold, and which permissions you were granted.
 
 ## Open My Team

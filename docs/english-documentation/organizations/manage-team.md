@@ -1,7 +1,5 @@
 # Manage the team
 
-<a href="https://docs.devsolve.app/km/organizations/manage-team" class="button secondary">🇰🇭 ខ្មែរ</a>
-
 Open **Dashboard → Team Management** to manage the active organization's roster. In the current frontend, this screen and its member-management endpoints are reserved for the organization **Owner**.
 
 ## Read and filter the roster

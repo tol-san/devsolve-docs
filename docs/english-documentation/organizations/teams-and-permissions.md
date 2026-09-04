@@ -1,7 +1,5 @@
 # Teams, roles, and permissions
 
-<a href="https://docs.devsolve.app/km/organizations/teams-and-permissions" class="button secondary">🇰🇭 ខ្មែរ</a>
-
 Roles describe a team member's general responsibility. Explicit permissions determine which Company Workspace tools actually appear. The organization Owner manages both from **Team Management**.
 
 ## Roles

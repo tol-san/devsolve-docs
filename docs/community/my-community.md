@@ -1,7 +1,5 @@
 # គ្រប់គ្រង My Community
 
-<a href="https://docs.devsolve.app/en/community/my-community" class="button secondary">🇬🇧 English</a>
-
 **My Community** គឺជា Workspace ឯកជនសម្រាប់មាតិកាដែលអ្នកបានសរសេរ។
 
 {% hint style="info" %}

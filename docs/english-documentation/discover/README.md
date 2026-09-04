@@ -1,7 +1,5 @@
 # Discover DevSolve
 
-<a href="https://docs.devsolve.app/km/discover/" class="button secondary">🇰🇭 ខ្មែរ</a>
-
 Most discovery pages are public. You can inspect Programs, Community knowledge, researcher activity, and profiles before creating an account.
 
 ## Discovery areas

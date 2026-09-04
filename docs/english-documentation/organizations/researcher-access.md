@@ -1,7 +1,5 @@
 # Manage Researcher Access
 
-<a href="https://docs.devsolve.app/km/organizations/researcher-access" class="button secondary">🇰🇭 ខ្មែរ</a>
-
 Researcher Access controls who outside the organization may report to its Programs.
 
 {% hint style="info" %}

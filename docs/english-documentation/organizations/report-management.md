@@ -1,7 +1,5 @@
 # Review and manage Reports
 
-<a href="https://docs.devsolve.app/km/organizations/report-management" class="button secondary">🇰🇭 ខ្មែរ</a>
-
 The private Report workspace helps authorized team members validate scope, evidence, severity, remediation, and final outcomes.
 
 {% hint style="info" %}

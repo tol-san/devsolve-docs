@@ -1,7 +1,5 @@
 # Platform Security Incidents
 
-<a href="https://docs.devsolve.app/en/administration/security-incidents" class="button secondary">🇬🇧 English</a>
-
 Administrative Security Incidents ជួយ Monitor Organization Account/Security States និង Incident Details។
 
 1. បើក **Dashboard → Security Incidents**។

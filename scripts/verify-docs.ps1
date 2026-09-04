@@ -25,8 +25,8 @@ foreach ($language in @("en", "km")) {
         $content = Get-Content -LiteralPath $file.FullName -Raw
 
         if ($file.Name -ne "SUMMARY.md") {
-            if ($content -notmatch 'class="button secondary"') {
-                $errors.Add("Missing language button: $language/$relativePath")
+            if ($content -match 'class="button secondary"') {
+                $errors.Add("Obsolete inline language button found: $language/$relativePath")
             }
             if ($relativePath -ne "README.md" -and $summaryTargets -notcontains $relativePath) {
                 $errors.Add("Page missing from SUMMARY: $language/$relativePath")
@@ -35,38 +35,6 @@ foreach ($language in @("en", "km")) {
             $h1Count = ([regex]::Matches($content, '(?m)^# ')).Count
             if ($h1Count -ne 1) {
                 $errors.Add("Expected one H1: $language/$relativePath ($h1Count)")
-            }
-
-            $switchPattern = '<a href="https://docs\.devsolve\.app/{0}/([^"]*)" class="button secondary">' -f $counterpart
-            $switch = [regex]::Match($content, $switchPattern)
-            if (-not $switch.Success) {
-                $errors.Add("Invalid language target: $language/$relativePath")
-            }
-            else {
-                $expectedLabel = if ($counterpart -eq "km") { "🇰🇭 ខ្មែរ" } else { "🇬🇧 English" }
-                if ($content -notmatch ([regex]::Escape($expectedLabel) + '</a>')) {
-                    $errors.Add("Missing flag in language button: $language/$relativePath")
-                }
-
-                $targetRelativePath = $switch.Groups[1].Value.Trim('/').Replace('/', '\')
-                if ([string]::IsNullOrWhiteSpace($targetRelativePath)) {
-                    $targetRelativePath = "README.md"
-                }
-                elseif ([IO.Path]::GetExtension($targetRelativePath) -eq "") {
-                    $targetPath = Join-Path $languageRoots[$counterpart] $targetRelativePath
-                    if (Test-Path -LiteralPath $targetPath -PathType Container) {
-                        $targetRelativePath = Join-Path $targetRelativePath "README.md"
-                    }
-                    else {
-                        $targetRelativePath += ".md"
-                    }
-                }
-
-                if ($targetRelativePath -ne $relativePath) {
-                    $errors.Add(
-                        "Language target mismatch: $language/$relativePath -> $counterpart/$targetRelativePath"
-                    )
-                }
             }
         }
 

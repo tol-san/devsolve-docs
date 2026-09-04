@@ -1,7 +1,5 @@
 # បង្កើត និងគ្រប់គ្រង Program
 
-<a href="https://docs.devsolve.app/en/organizations/programs" class="button secondary">🇬🇧 English</a>
-
 Program ប្រាប់ Researcher អំពីអ្វីដែលអាច Test, របៀប Report និង Response/Reward Policy។
 
 {% hint style="info" %}

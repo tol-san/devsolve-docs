@@ -1,7 +1,5 @@
 # Analytics និង Security Incidents
 
-<a href="https://docs.devsolve.app/en/organizations/analytics-and-security" class="button secondary">🇬🇧 English</a>
-
 ## Analytics
 
 សម្រាប់ Account ដែលមាន Organization Membership បើក **Dashboard** ដើម្បី Load Analytics របស់ Active Organization។ ជ្រើស All Programs ឬ Program មួយ និង Time Range។ ទិន្នន័យអាចមាន Report Totals, Accepted/Rejected Outcomes, Severity Distribution, Submission Trend, SLA Indicators, Targeted Assets, Top Weaknesses, Researcher Ranking, Programs និង Recent Reports។

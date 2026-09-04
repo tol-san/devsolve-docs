@@ -1,7 +1,5 @@
 # Reports and organizations FAQ
 
-<a href="https://docs.devsolve.app/km/faq/reports-and-organizations" class="button secondary">🇰🇭 ខ្មែរ</a>
-
 <details>
 <summary>Why can’t I submit to a Program?</summary>
 

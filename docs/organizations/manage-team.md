@@ -1,7 +1,5 @@
 # គ្រប់គ្រងក្រុម
 
-<a href="https://docs.devsolve.app/en/organizations/manage-team" class="button secondary">🇬🇧 English</a>
-
 បើក **Dashboard → Team Management** ដើម្បីគ្រប់គ្រង Roster របស់ Active Organization។ ក្នុង Frontend បច្ចុប្បន្ន Screen និង Member-management Endpoints ទាំងនេះត្រូវបានកំណត់សម្រាប់ Organization **Owner**។
 
 ## មើល និង Filter Roster

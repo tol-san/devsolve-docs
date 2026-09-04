@@ -1,7 +1,5 @@
 # ការត្រួតពិនិត្យមាតិកា
 
-<a href="https://docs.devsolve.app/en/administration/content-moderation" class="button secondary">🇬🇧 English</a>
-
 **Content Management** គ្រប់គ្រង Problems, Solutions និង Showcases; **Content Reports** គ្រប់គ្រង Flags ពីអ្នកប្រើ។
 
 1. បើក **Content Management** ហើយជ្រើស Content Type។

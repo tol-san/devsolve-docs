@@ -1,7 +1,5 @@
 # Prohibited activities
 
-<a href="https://docs.devsolve.app/km/policies/prohibited-activities" class="button secondary">🇰🇭 ខ្មែរ</a>
-
 Unless a Program explicitly authorizes an activity, do not perform or publish:
 
 - Denial-of-service, destructive, or availability-impacting tests

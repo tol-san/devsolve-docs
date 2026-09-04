@@ -1,7 +1,5 @@
 # របៀបរុករក DevSolve
 
-<a href="https://docs.devsolve.app/en/getting-started/navigation" class="button secondary">🇬🇧 English</a>
-
 DevSolve មាន Public Navigation Bar និង Dashboard Sidebar ដែលប្រែប្រួលតាមតួនាទី។
 
 ## Public navigation

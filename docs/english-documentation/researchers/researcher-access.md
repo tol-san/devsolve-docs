@@ -1,7 +1,5 @@
 # Request Researcher Access
 
-<a href="https://docs.devsolve.app/km/researchers/researcher-access" class="button secondary">🇰🇭 ខ្មែរ</a>
-
 An organization can require approval before you report to any of its Programs. This is organization-level access, not a separate decision for each Program.
 
 {% hint style="info" %}

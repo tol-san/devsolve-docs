@@ -1,7 +1,5 @@
 # Analytics and security incidents
 
-<a href="https://docs.devsolve.app/km/organizations/analytics-and-security" class="button secondary">🇰🇭 ខ្មែរ</a>
-
 Use organization analytics to understand Program and Report trends, then use Security Incidents for operational account or security concerns exposed by the platform.
 
 ## Analytics

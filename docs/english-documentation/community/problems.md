@@ -1,7 +1,5 @@
 # Create and manage Problems
 
-<a href="https://docs.devsolve.app/km/community/problems" class="button secondary">🇰🇭 ខ្មែរ</a>
-
 A Problem asks the public Community for help with a technical issue.
 
 {% hint style="info" %}

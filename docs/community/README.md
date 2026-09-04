@@ -1,7 +1,5 @@
 # Community
 
-<a href="https://docs.devsolve.app/en/community/" class="button secondary">🇬🇧 English</a>
-
 Community គឺជាតំបន់ចំណេះដឹងបច្ចេកទេសសាធារណៈរបស់ DevSolve។ វាមាន Problems, Solutions ដែលភ្ជាប់នឹង Problems និង Showcases ដាច់ដោយឡែក។
 
 ```mermaid

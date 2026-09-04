@@ -1,7 +1,5 @@
 # Accept organization invitations
 
-<a href="https://docs.devsolve.app/km/account/invitations" class="button secondary">🇰🇭 ខ្មែរ</a>
-
 Any signed-in DevSolve user can be invited to an organization team. Invitations addressed to your account appear under **Dashboard → Invitations**, regardless of whether you are a Researcher, an organization Owner, or already belong to another team.
 
 ## Review an invitation

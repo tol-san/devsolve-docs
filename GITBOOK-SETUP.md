@@ -89,7 +89,7 @@ Recommended footer links:
 
 - Preview both spaces on desktop and mobile.
 - Confirm the cropped light and dark logos fill the navbar height without clipping.
-- Verify the language button on every page.
+- Verify language navigation via the navbar dropdown and space switcher.
 - Confirm Noto Sans Khmer renders all Khmer text correctly.
 - Confirm Mermaid, code, hints, tables, images, and embeds render in both themes.
 - Save site-wide customization before configuring any space-specific override.

@@ -1,7 +1,5 @@
 # ស្វែងយល់ពី Company Workspace
 
-<a href="https://docs.devsolve.app/en/organizations/company-workspace" class="button secondary">🇬🇧 English</a>
-
 **Company Workspace** គឺជាក្រុមឧបករណ៍សម្រាប់អង្គការនៅក្នុង Dashboard។ វាមិនមែនជា Account Type ដាច់ដោយឡែក ឬជា Page តែមួយទេ។ DevSolve បង្កើត Workspace តាម Active Organization Membership និង Permissions ដែលអ្នកទទួលបានក្នុងអង្គការនោះ។
 
 ## អ្នកណាអាចមាន Workspace

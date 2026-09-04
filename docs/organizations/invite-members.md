@@ -1,7 +1,5 @@
 # អញ្ជើញសមាជិក
 
-<a href="https://docs.devsolve.app/en/organizations/invite-members" class="button secondary">🇬🇧 English</a>
-
 Organization Owner អាច Invite អ្នកប្រើ DevSolve ដែលមាន Account រួចចូល Company Workspace ហើយជ្រើស Access សម្រាប់ពួកគេ។
 
 ## មុនពេល Invite

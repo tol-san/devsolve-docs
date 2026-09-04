@@ -1,7 +1,5 @@
 # ដាក់ស្នើរបាយការណ៍ភាពងាយរងគ្រោះ
 
-<a href="https://docs.devsolve.app/en/researchers/submit-a-report" class="button secondary">🇬🇧 English</a>
-
 ប្រើ Vulnerability Report ដើម្បីរាយការណ៍ជាឯកជនទៅអង្គការដែលទទួលខុសត្រូវលើ In-Scope Program។
 
 {% hint style="info" %}

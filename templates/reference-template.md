@@ -1,7 +1,5 @@
 # Reference title
 
-<a href="/other-language/matching-slug" class="button secondary">Other language</a>
-
 Explain what this reference covers.
 
 ## Values

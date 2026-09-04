@@ -1,7 +1,5 @@
 # Responsible Disclosure
 
-<a href="https://docs.devsolve.app/en/policies/responsible-disclosure" class="button secondary">🇬🇧 English</a>
-
 Responsible Disclosure រក្សា Sensitive Finding ជាឯកជន ខណៈ Organization ផ្ទៀងផ្ទាត់ និងដោះស្រាយ។
 
 ## កាតព្វកិច្ច Researcher

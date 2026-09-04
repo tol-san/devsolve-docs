@@ -1,7 +1,5 @@
 # Verification and user management
 
-<a href="https://docs.devsolve.app/km/administration/verification-and-users" class="button secondary">🇰🇭 ខ្មែរ</a>
-
 ## Verify organizations
 
 1. Open **Organization Verification**.

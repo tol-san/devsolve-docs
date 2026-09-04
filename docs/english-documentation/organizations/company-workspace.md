@@ -1,7 +1,5 @@
 # Understand the Company Workspace
 
-<a href="https://docs.devsolve.app/km/organizations/company-workspace" class="button secondary">🇰🇭 ខ្មែរ</a>
-
 The **Company Workspace** is the set of organization tools in the Dashboard. It is not a separate account type or a single page. DevSolve builds the workspace from your active organization membership and the permissions granted for that organization.
 
 ## Who receives a workspace

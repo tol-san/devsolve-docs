@@ -1,7 +1,5 @@
 # Search, Hacktivity, and Leaderboard
 
-<a href="https://docs.devsolve.app/km/discover/search-and-activity" class="button secondary">🇰🇭 ខ្មែរ</a>
-
 Use these public areas to find content and understand visible platform activity.
 
 ## Global search

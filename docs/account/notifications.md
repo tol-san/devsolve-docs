@@ -1,7 +1,5 @@
 # Notifications
 
-<a href="https://docs.devsolve.app/en/account/notifications" class="button secondary">🇬🇧 English</a>
-
 Notifications រួមបញ្ចូល Events ដែលគាំទ្រពាក់ព័ន្ធនឹង Account, Community, Access, Team, Program និង Report។
 
 1. ជ្រើស Bell នៅ Public ឬ Dashboard Header។

@@ -1,7 +1,5 @@
 # Manage My Community
 
-<a href="https://docs.devsolve.app/km/community/my-community" class="button secondary">🇰🇭 ខ្មែរ</a>
-
 **My Community** is the private workspace for content you authored.
 
 {% hint style="info" %}

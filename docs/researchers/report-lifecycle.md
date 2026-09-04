@@ -1,7 +1,5 @@
 # វដ្តជីវិត Report និង Retest
 
-<a href="https://docs.devsolve.app/en/researchers/report-lifecycle" class="button secondary">🇬🇧 English</a>
-
 Researcher Interface បង្ហាញ Status សាមញ្ញ ខណៈ Backend អាចរក្សា Workflow State លម្អិតជាងនេះ។
 
 ```mermaid

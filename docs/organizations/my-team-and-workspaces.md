@@ -1,7 +1,5 @@
 # ប្រើ My Team និងប្ដូរ Workspace
 
-<a href="https://docs.devsolve.app/en/organizations/my-team-and-workspaces" class="button secondary">🇬🇧 English</a>
-
 **My Team** គឺជា Member-facing View របស់អង្គការដែលអ្នកបាន Join។ វាឆ្លើយសំណួរបី៖ អង្គការណាដែល Active, អ្នកមាន Role អ្វី និង Permissions អ្វីខ្លះដែលត្រូវបានផ្តល់។
 
 ## បើក My Team

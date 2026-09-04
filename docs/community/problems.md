@@ -1,7 +1,5 @@
 # បង្កើត និងគ្រប់គ្រង Problem
 
-<a href="https://docs.devsolve.app/en/community/problems" class="button secondary">🇬🇧 English</a>
-
 Problem គឺជាការស្នើសុំជំនួយពី Community អំពីបញ្ហាបច្ចេកទេស។
 
 {% hint style="info" %}

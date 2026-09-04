@@ -1,7 +1,5 @@
 # សរសេរ និងគ្រប់គ្រង Solution
 
-<a href="https://docs.devsolve.app/en/community/solutions" class="button secondary">🇬🇧 English</a>
-
 Solution គឺជាចម្លើយសម្រាប់ Problem ជាក់លាក់។ វាគួរអាចផ្ទៀងផ្ទាត់ឡើងវិញ និងពន្យល់មូលហេតុដែលវិធីសាស្ត្រនោះដំណើរការ។
 
 {% hint style="info" %}

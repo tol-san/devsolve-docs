@@ -1,7 +1,5 @@
 # មគ្គុទ្ទេសក៍សម្រាប់អង្គការ
 
-<a href="https://docs.devsolve.app/en/organizations/" class="button secondary">🇬🇧 English</a>
-
 Organization Workspace គ្រប់គ្រង Identity Verification, Programs, Team Access, Researcher Approval, Private Reports, Analytics និង Security Incidents។
 
 ```mermaid

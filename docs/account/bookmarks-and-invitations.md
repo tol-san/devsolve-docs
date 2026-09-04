@@ -1,7 +1,5 @@
 # Bookmarks, Invitations និង Workspaces
 
-<a href="https://docs.devsolve.app/en/account/bookmarks-and-invitations" class="button secondary">🇬🇧 English</a>
-
 ## Bookmarks
 
 ជ្រើស Bookmark លើមាតិកាដែលគាំទ្រ។ បើក **Dashboard → Bookmarks** ដើម្បី Search, Filter, Open ឬ Remove។ Bookmark ជាឯកជន និងមិនប្តូរ Review Status។

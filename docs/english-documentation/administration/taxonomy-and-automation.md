@@ -1,7 +1,5 @@
 # Categories, tags, weaknesses, and auto-approval
 
-<a href="https://docs.devsolve.app/km/administration/taxonomy-and-automation" class="button secondary">🇰🇭 ខ្មែរ</a>
-
 Taxonomy keeps Community and Report classification searchable and consistent.
 
 ## Categories

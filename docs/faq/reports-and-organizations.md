@@ -1,7 +1,5 @@
 # Reports និង Organizations FAQ
 
-<a href="https://docs.devsolve.app/en/faq/reports-and-organizations" class="button secondary">🇬🇧 English</a>
-
 <details>
 <summary>ហេតុអ្វីមិនអាច Submit ទៅ Program?</summary>
 

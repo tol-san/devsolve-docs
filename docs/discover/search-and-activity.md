@@ -1,7 +1,5 @@
 # Search, Hacktivity និង Leaderboard
 
-<a href="https://docs.devsolve.app/en/discover/search-and-activity" class="button secondary">🇬🇧 English</a>
-
 ## Global Search
 
 ប្រើ Search នៅ Public Header ឬ Dashboard Header។ ស្វែងរកតាម Title, Technology, Program, Organization ឬ Username។ បើកទំព័រ **Search** ដើម្បីមើលលទ្ធផលពេញ និងជ្រើស Result Type នៅពេលមាន។ Private Reports និង Community Content ដែលមិនទាន់ Publish មិនមែនជាលទ្ធផលសាធារណៈទេ។

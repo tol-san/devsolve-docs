@@ -1,7 +1,5 @@
 # Account and collaboration
 
-<a href="https://docs.devsolve.app/km/account/" class="button secondary">🇰🇭 ខ្មែរ</a>
-
 Your account connects your public identity, notification inbox, saved content, and organization invitations.
 
 - [Profile and settings](profile-and-settings.md)

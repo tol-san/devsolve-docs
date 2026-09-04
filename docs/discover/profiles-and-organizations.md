@@ -1,7 +1,5 @@
 # Profile និងអង្គការ
 
-<a href="https://docs.devsolve.app/en/discover/profiles-and-organizations" class="button secondary">🇬🇧 English</a>
-
 Public Profile បង្ហាញ Identity និង Contribution ដែលអ្នកប្រើ ឬអង្គការបានជ្រើសរើស ឬត្រូវបានអនុញ្ញាតឱ្យបង្ហាញ។
 
 ## Researcher Profile

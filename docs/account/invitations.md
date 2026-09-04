@@ -1,7 +1,5 @@
 # ទទួលយកការអញ្ជើញចូលអង្គការ
 
-<a href="https://docs.devsolve.app/en/account/invitations" class="button secondary">🇬🇧 English</a>
-
 អ្នកប្រើ DevSolve ដែលបាន Sign in គ្រប់រូបអាចត្រូវបាន Invite ចូល Organization Team។ Invitation ដែលផ្ញើមក Account របស់អ្នកបង្ហាញនៅ **Dashboard → Invitations** មិនថាអ្នកជា Researcher, Organization Owner, ឬជាសមាជិក Team ផ្សេងរួចហើយក៏ដោយ។
 
 ## ពិនិត្យ និង Accept Invitation

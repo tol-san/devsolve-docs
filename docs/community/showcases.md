@@ -1,7 +1,5 @@
 # បង្កើត និងគ្រប់គ្រង Showcase
 
-<a href="https://docs.devsolve.app/en/community/showcases" class="button secondary">🇬🇧 English</a>
-
 Showcase គឺជាការបង្ហាញ Project, Architecture ឬ Technical Build Guide ជាសាធារណៈ និងមានរចនាសម្ព័ន្ធ។
 
 {% hint style="info" %}
